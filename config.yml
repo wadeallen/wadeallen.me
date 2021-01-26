@@ -25,7 +25,3 @@ menu:
           name: tags
           url: /tags/
           weight: 20
-        - identifier: wadeallen
-          name: wadeallen.me
-          url: https://wadeallen.me
-          weight: 30
