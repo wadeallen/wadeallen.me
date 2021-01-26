@@ -43,7 +43,7 @@ params:
     # images: ["papermod-cover.png"]
 
     profileMode:
-        enabled: true
+        enabled: false
         title: Wade Allen
         # imageUrl: "#"
         # imageTitle: my image
