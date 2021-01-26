@@ -1,6 +1,6 @@
 ---
-title: "Archive" # in any language you want
-layout: "archives" # is necessary
+title: "Worship Planning"
+layout: "archives"
 url: "/archive"
 summary: "archive"
 ---
