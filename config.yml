@@ -3,6 +3,9 @@ title: Wade Allen
 paginate: 5
 theme: PaperMod
 
+build:
+  buildFuture: true
+
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
