@@ -1,0 +1,71 @@
+baseURL: "https://wadeallen.me"
+title: Wade Allen
+paginate: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+    disableXML: true
+    minifyOutput: true
+
+menu:
+    main:
+        - identifier: worship
+          name: worship planning
+          url: /planning/
+          weight: 10
+        - identifier: tags
+          name: tags
+          url: /tags/
+          weight: 20
+        - identifier: wadeallen
+          name: wadeallen.me
+          url: https://wadeallen.me
+          weight: 30
+
+params:
+    # env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    # description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
+    author: Wade Allen
+    # author: ["Me", "You"] # multiple authors
+
+    defaultTheme: auto
+    # disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    # disableSpecial1stPost: true
+    displayFullLangName: false
+    # comments: false
+    # images: ["papermod-cover.png"]
+
+    profileMode:
+        enabled: true
+        title: Wade Allen
+        # imageUrl: "#"
+        # imageTitle: my image
+        # imageWidth: 120
+        # imageHeight: 120
+        buttons:
+            - name: Archives
+              url: archives
+            - name: Tags
+              url: tags
+
+    homeInfoParams:
+        Title: "Wade allen"
+        Content: >
+            Welcome to demo of hugo's theme PaperMod.
+            - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
+            - Do give a 🌟 on Github !
+            - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
+    # socialIcons:
+    #     - name: github
+    #       url: "https://github.com/adityatelange/hugo-PaperMod"
+    #     - name: KoFi
+    #       url: "https://ko-fi.com/adityatelange"
+    #     - name: RsS
+    #       url: "index.xml"
