@@ -1,4 +1,4 @@
-baseURL: "https://wadeallen.me"
+baseURL: "https://wadeallen.netlify.app"
 title: Wade Allen
 paginate: 5
 theme: PaperMod
