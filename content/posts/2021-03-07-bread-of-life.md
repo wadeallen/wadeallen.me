@@ -1,11 +1,8 @@
 ---
-author: "Wade Allen"
 title: "Bread of Life"
+scripture: "John 6:25-59"
 date: "2021-03-07"
-tags: ["communion", "John"]
-ShowToc: false
+author: "Wade Allen"
 ---
 
-this is a test summary
-
-
+As we come to the Table together, we consider Jesus words to those who are seeking Him for material gain. While His words are difficult, we can understand them on this side of the Cross. Will we take on this posture of submission to God and His purpose in our lives?
