@@ -21,7 +21,3 @@ menu:
           name: worship planning
           url: /archive/
           weight: 10
-        - identifier: tags
-          name: tags
-          url: /tags/
-          weight: 20
