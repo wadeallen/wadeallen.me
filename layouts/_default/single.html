@@ -49,7 +49,16 @@
   <div class="post-content">
     {{- partial "anchored_headings.html" .Content -}}
     {{- if .Params.scripture }}
-     Sermon Scripture: {{ .Params.scripture }}
+     <p><b>Sermon Scripture:</b> {{ .Params.scripture }}</p>
+     {{- end }}
+    {{- if .Params.first_reading }}
+     <p><b>First Reading:</b> {{ .Params.first_reading }}</p>
+     {{- end }}
+   {{- if .Params.second_reading }}
+     <p><b>Second Reading:</b> {{ .Params.second_reading }}</p>
+     {{- end }}
+    {{- if .Params.communion }}
+     <p><b>Communion:</b> {{ .Params.communion }}</p>
      {{- end }}
   </div>
   <footer class="post-footer">
