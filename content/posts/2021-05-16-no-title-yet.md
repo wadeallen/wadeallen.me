@@ -1,0 +1,11 @@
+---
+title: "No title yet"
+scripture: "No Scripture Chosen Yet"
+date: "2021-05-16"
+author: "Wally Flemming"
+first_reading: "No reading chosen"
+second_reading: "No reading chosen"
+communion: "undecided"
+---
+
+No description yet
