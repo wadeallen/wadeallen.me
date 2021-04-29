@@ -4,7 +4,7 @@ scripture: "Exodus 3:11-22"
 date: "2021-06-27"
 author: "Wade Allen"
 first_reading: "Revelation 1:4-8"
-second_reading: "No reading chosen"
+second_reading: "Philippians 1:3-6"
 communion: "no"
 ---
 
