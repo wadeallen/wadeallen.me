@@ -3,7 +3,7 @@ title: "Behind the Scenes"
 scripture: "Exodus 2:11-25"
 date: "2021-06-13"
 author: "Wade Allen"
-first_reading: "Genesis 28:13-15"
+first_reading: "1 Peter 1:3-7"
 second_reading: "Hebrews 11:8-12"
 communion: "no"
 ---

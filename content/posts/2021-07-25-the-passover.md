@@ -1,6 +1,6 @@
 ---
 title: "The Passover"
-scripture: "Exodus 12:1-30"
+scripture: "Exodus 12:1-13"
 date: "2021-07-25"
 author: "Wade Allen"
 first_reading: "Hebrews 9:11-14"
