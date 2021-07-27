@@ -1,5 +1,5 @@
 ---
-title: "Approaching God"
+title: "Holy of Holies"
 scripture: "Exodus 27:20-30:10"
 date: "2021-09-26"
 author: "Wade Allen"
