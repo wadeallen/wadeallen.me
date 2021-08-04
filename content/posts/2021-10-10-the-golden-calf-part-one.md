@@ -8,4 +8,4 @@ second_reading: "No reading chosen"
 communion: "no"
 ---
 
-No description yet
+Lauren Blanco will be preaching
