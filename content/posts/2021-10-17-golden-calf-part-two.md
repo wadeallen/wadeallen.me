@@ -1,5 +1,5 @@
 ---
-title: "God With Us"
+title: "Golden Calf Part Two"
 scripture: "Exodus 33:7-34:35"
 date: "2021-10-17"
 author: "Wade Allen"
