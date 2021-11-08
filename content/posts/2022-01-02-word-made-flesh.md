@@ -3,8 +3,8 @@ title: "Word Made Flesh"
 scripture: "John 1:1-18"
 date: "2022-01-02"
 author: "Wade Allen"
-first_reading: "No reading chosen"
-second_reading: "No reading chosen"
+first_reading: "Psalm 147:12-20"
+second_reading: "Ephesians 1:3-14"
 communion: "yes"
 ---
 
