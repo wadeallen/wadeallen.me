@@ -3,8 +3,8 @@ title: "Christmas Eve"
 scripture: "John 1"
 date: "2021-12-24"
 author: "Wade Allen"
-first_reading: "No reading chosen"
-second_reading: "No reading chosen"
+first_reading: "None"
+second_reading: "None"
 communion: "yes"
 ---
 
