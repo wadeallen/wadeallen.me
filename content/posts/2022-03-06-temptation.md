@@ -3,7 +3,7 @@ title: "Temptation"
 scripture: "Luke 4:1-13"
 date: "2022-03-06"
 author: "Wade Allen"
-first_reading: "No reading chosen"
+first_reading: "Romans 10:8-13"
 second_reading: "Luke 4:1-13"
 communion: "yes"
 ---
