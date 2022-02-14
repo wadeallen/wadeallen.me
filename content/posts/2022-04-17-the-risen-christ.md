@@ -1,5 +1,5 @@
 ---
-title: "No title yet"
+title: "The Risen Christ"
 scripture: "Acts 10:34-43"
 date: "2022-04-17"
 author: "Wade Allen"
