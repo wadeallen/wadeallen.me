@@ -2,7 +2,7 @@
 title: "Pentecost"
 scripture: "Acts 2:1-21"
 date: "2022-06-05"
-author: "Wade Allen"
+author: "Mark SlomskI"
 first_reading: "Romans 8:14-17"
 second_reading: "Psalm 104:24-35"
 communion: "yes"
