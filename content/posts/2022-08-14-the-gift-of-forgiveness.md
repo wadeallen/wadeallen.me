@@ -8,4 +8,4 @@ second_reading: "James 5:13-20"
 communion: "no"
 ---
 
-A key phrase in the Lord's Prayer seeks God's forgiveness while confessing our willingness to forgive others. We must be willingness to release others of their debts as we seek forgiveness for our sins.
+A key phrase in the Lord's Prayer seeks God's forgiveness while confessing our willingness to forgive others. We must be willing to release others of their debts as we seek forgiveness for our sins.

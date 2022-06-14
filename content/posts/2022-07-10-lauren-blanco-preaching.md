@@ -1,6 +1,6 @@
 ---
-title: "TBA"
-scripture: "TBA"
+title: "Lauren Blanco Preaching"
+scripture: "Luke 10:25-37"
 date: "2022-07-10"
 author: "Lauren Blanco"
 first_reading: "TBA"
