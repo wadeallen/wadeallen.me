@@ -1,0 +1,19 @@
+---
+date: 2012-10-30
+title: A Prayer for the Church
+description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
+image: '/images/04.jpg'
+tags: [reading, news]
+---
+
+This blog is dedicated to issues of discernment within the church and among church leaders. While I have not mustered the discipline to write a weekly entry, I often discover discernment related text in Scripture. This week, I was preparing for an Advent sermon and landed on a passage from Paul's letter to the Philippians. I found it particularly relevant to the issue of discernment. 
+
+Ancient letters have a particular format. In the same way that modern writers place the date in the right-hand corner, address the recipient first, conclude with a salutation and sometimes place a P.S. toward the bottom of the page, ancient writers followed their own conventions. Unlike modern letters, ancient writers included both the recipient and the sender's name up front. The writer would typically move to a formulaic greeting. In the same way that we use the phrases "sincerely" or "take care", the ancient writers would include nice and pleasant phrases at the beginning of each letter. As Paul writes to the Philippians church, he follows these conventions. Next, the ancient writer would offer a blessing or Thanksgiving for the recipient. In this section, the writer would reveal his heart toward the recipient. It is in these verses in Paul's letter to the Philippians that we find a mention of discerning.
+
+Paul celebrates the faith of the Philippians church and the work that God has started among them. He encourages them that God will complete His work. Paul then offers a prayer. It is in this prayer that we discover Paul's desire for the Philippians church. How do you pray for your kids? You may pray for their safety, good health, academic achievement or relational success. How we pray for our kids reveals what we want for them. In the same way, Paul's prayer for the Philippians reveals his desire for them. What does he want for them? Notice the text,
+
+>(Philippians 1:9–11 NIV)  9) And this is my prayer: that your love may abound more and more in knowledge and depth of insight, 10) so that you may be able to discern what is best and may be pure and blameless until the day of Christ, 11) filled with the fruit of righteousness that comes through Jesus Christ — to the glory and praise of God. 
+
+First of all, he wants their love to grow. But what does he mean by this? Does he want them to simply love each other more? Notice he says that he wants their love to grow in "knowledge and depth of insight." What does this mean? It seems that he wants them to mature to the point where they have a deeper understanding of what it means to follow God. Notice in verse 10, the reason he wants this depth of insight is because he wants them to be able to discern well. There it is. Paul's prayer for the Philippians is that they would be able adequately discern. Discerning is not something that you have to do every once in a while. It's not reserved for church budget planning or limited to difficult issues. Discerning is something that we do every day. It is how we live out our faith. Paul desired a church that could properly discern the Spirit of God. And when he prayed for them, this was central in his prayer.
+
+May God give us the ability to discern His movement in all we do. May God give us the knowledge and depth of insight that we desperately need in the modern church. May we move beyond the simple legalistic rule systems found in many churches and move toward an active living relationship with God, discerning His movement in our lives.

@@ -1,0 +1,13 @@
+---
+date: 2012-07-03 19:59:09
+title: A Mixed Bag
+description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
+image: '/images/04.jpg'
+tags: [reading, news]
+---
+
+I am currently preaching through the book of Genesis; we are now in the story of Abraham. His story alone could be the subject of a year's worth of sermons. His life is fascinating. Called to leave his homeland, he ventures with God into the unknown. It is easy to paint him with praiseworthy tones.  The author of Hebrews describes him as a man of intense faith; certainly he is. Yet, in the mix are days when he is not so faithful; these are the stories we like to forget. He (it was really his wife's idea) takes a second wife; he decides to take the fulfillment of God's promise into his own hands. He lies to Abimelech about Sarah being his wife; fearful for his life, he risks his wife's purity. He asks God not to destroy two wicked cities; he wonders if they are really "that bad" after all. How do we reconcile such faithfulness with such failure? How can this man be a hero of the faith if he falters so much of the time?
+
+While some may find these divergent characteristics distasteful, others are comforted by the realism portrayed by the author of Genesis. Abraham is a mixed bag. Zealous to follow God, he is anything but perfect. Have you missed God's direction at times? Then you would be in good company with Abraham. Have you failed to discern God's direction? You are not alone. 
+
+As we discern the leading of the Spirit, we must remember that we will sometimes miss the mark. We are tainted by sin; therefore, we may fall into patterns of going our own way. God is patient with Abraham; He fulfills His promise in spite of Abraham and Sarah's doubt. Certainly, Abraham makes poor decisions at times, but he is fiercely obedient when God prompts. In the end, his acts of faith define him more than his mistakes. In the end, God is honored through his life. So what does Abraham's story have to do with us? How might we be able to benefit as we study his life? My hope is that we would strive toward similar obedience. Recognizing our shortfalls, may we learn to follow God as Abraham. Has it been a while since you picked up the story? Maybe it is time to read it again.
