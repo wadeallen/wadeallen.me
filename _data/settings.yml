@@ -32,7 +32,7 @@ menu_settings:
 
 # Call to action button
 cta_button:
-  enable: true
+  enable: false
   cta_button_link: '/contact/'
   cta_button_text: Get in touch
 
@@ -40,20 +40,20 @@ cta_button:
 #-------------------------------
 # Author Settings
 author:
-  author_name: "Daryl Mercer"
-  author_avatar: "/images/01-1.jpg"
+  author_name: "Wade Allen"
+  author_avatar: "/images/Wade_Allen.jpg"
 
 
 #-------------------------------
 # Hero Settings
 hero:
-  enable: true
+  enable: false
   hero_title: I'm an expert user experience strategist and mobile developer.
   hero_description: Leveraging my expertise, I'm here to collaborate with you on crafting design solutions that transcend expectations. Let's embark on a journey of innovation together!
 
 # Hero Logos
 hero_logos:
-  enable: true
+  enable: false
 
 hero_logo_image:
   - alt: "Apple Logo"
@@ -81,14 +81,14 @@ hero_logo_image:
 #-------------------------------
 # Slider Featured Settings
 featured:
-  enable: true
+  enable: false
   featured_title: Selected Work
 
 
 #-------------------------------
 # Projects Section Settings
 projects:
-  enable: true
+  enable: false
   projects_title: Recent Work
   projects_description:
 
@@ -96,7 +96,7 @@ projects:
 #-------------------------------
 # Testimonials Section Settings
 testimonials:
-  enable: true
+  enable: false
   testimonials_intro: Don't take my word for it
   testimonials_title: See what our happy clients say...
   testimonials_info: Join over <b>10K+</b> Prefessionals
@@ -130,7 +130,7 @@ testimonial_items:
 #-------------------------------
 # Faq (Frequently asked questions) Settings
 faq:
-  enable: true
+  enable: false
   faq_title: Frequently asked questions
   faq_intro: Need some answers?
   faq_items:
@@ -159,10 +159,10 @@ blog:
 #-------------------------------
 # Author Section Settings
 author_section:
-  enable: true
+  enable: false
   author_section_title: "Hi there 👋 ! Welcome to my fun zone. I'm Daryl, the playmaker of ideas."
   author_section_description: When I'm not crafting digital wonders, you can catch me sipping on coffee, cruising around on my bike, diving into games, and grooving to some tunes. Let's connect, share stories, and make this digital space our cozy corner. Cheers to good vibes and creative adventures!
-  author_section_image: "/images/01.jpg"
+  author_section_image: "/images/Wade_Allen.jpg"
   author_section_image_alt: Daryl Mercer
   author_section_button_text: Let's сonnect!
   author_section_button_link: "/contact/"
