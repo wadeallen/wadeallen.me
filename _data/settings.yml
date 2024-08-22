@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
-title: Gerous
-description: Gerous is a modern portfolio Jekyll theme
+title: Wade Allen
+description: "Navigating Ministry, Leadership, and Life"
 logo: "/images/logo.svg" # You can add own logo. For example "/images/logo.svg".
 logo_dark: "/images/logo-dark.svg"
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
