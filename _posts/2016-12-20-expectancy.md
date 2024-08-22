@@ -2,7 +2,7 @@
 title: Expectancy
 date: 2016-12-20
 description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
+image: '/images/09.jpg'
 tags: [reading, news]
 ---
  
