@@ -1,32 +1,19 @@
 ---
 layout: page
 title: About Me
-description: I am an expert user experience strategist and mobile developer, driven by a relentless pursuit of innovation and excellence. My journey in the tech world has been shaped by a commitment to creating solutions that not only meet but exceed user expectations.
+description: Rev. Dr. Wade S. Allen has over 30 years of experience in ministry, blending his early Christian upbringing with a strong commitment to spiritual leadership. From his beginnings in youth ministry to his current role as pastor of the United Church in Canandaigua, New York, Wade has focused on guiding congregations with scriptural authority. His educational background and involvement in denominational leadership highlight his dedication to the faith community.
 permalink: /about/
 image: '/images/Wade_Allen.jpg'
 ---
-As a user experience strategist, I specialize in understanding the intricacies of user behavior and translating them into intuitive and enjoyable digital interfaces. My approach is rooted in empathy, ensuring that every design decision considers the end-user's perspective.
 
-## Mobile development maven
+Rev. Dr. Wade S. Allen has devoted over three decades to ministry, bringing deep experience and a passion for spiritual leadership to every congregation he serves. Raised in Georgia, Wade was nurtured in the Christian faith from a young age and was baptized at seven. His involvement in a strong youth ministry during his formative years laid the groundwork for his calling to vocational ministry.
 
-In the realm of mobile development, I thrive on turning ideas into functional and aesthetically pleasing applications. From concept to deployment, I am dedicated to delivering mobile solutions that seamlessly integrate with users' lives.
+Following high school, Wade pursued a degree in Biblical Studies at Liberty University. Despite experiencing the profound loss of his father during his freshman year, Wade’s commitment to ministry grew stronger. This challenging time spurred him into his first role as a youth ministry intern, igniting a passion for student ministry that would shape the next fifteen years of his life.
 
-> To design is to communicate clearly by whatever means you can control or master - Milton Glaser
+In 2008, sensing a new direction from God, Wade transitioned into pastoral ministry, a call that was affirmed when he became the pastor of First Baptist Church in Muncie, Indiana. His pastoral approach is grounded in scriptural authority, spiritual leadership, and collaboration with the laity to nurture the church community.
 
-In the realm of mobile development, I thrive on turning ideas into functional and aesthetically pleasing applications. From concept to deployment, I am dedicated to delivering mobile solutions that seamlessly integrate with users' lives.
+Wade earned his Doctor of Ministry from Northern Baptist Theological Seminary, where his dissertation focused on leading churches through conflict by developing a process of spiritual discernment. He also holds a Master of Divinity from The Southern Baptist Theological Seminary, with an emphasis on Christian Education and Leadership, and a Bachelor of Arts in Biblical Studies from Liberty University.
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/01-2.jpg" loading="lazy" alt="Author">
-    <img src="/images/01-3.jpg" loading="lazy" alt="Author">
-  </div>
-  <em>Photo by <a href="https://www.pexels.com/@david-garrison-1128051/" target="_blank">David Garrison</a> on <a href="https://www.pexels.com/" target="_blank">Pexels</a></em>
-</div>
+Throughout his ministry, Wade has held various leadership roles within the American Baptist Churches of Indiana and Kentucky, including serving as President from 2016 to 2018. His commitment to fostering strong relationships across denominational lines underscores his dedication to a broad Christian witness.
 
-I believe in the power of technology to enrich lives. Whether it's through creating captivating mobile apps or designing user-centric interfaces, I aim to make a positive impact on how people engage with the digital world.
-
-## Let's Create Together
-
-Whether you're looking to enhance the user experience of your digital platform or bring a groundbreaking mobile app to life, I'm here to collaborate and innovate. Let's embark on a journey to transform ideas into exceptional digital experiences.
-
-Feel free to reach out, and let's turn your vision into a digital reality!
+Beyond his pastoral duties, Wade enjoys teaching, mentoring, and guiding others on their spiritual journeys, always seeking to follow God’s direction and leadership in all aspects of his work.
