@@ -1,12 +1,12 @@
 ---
 layout: page
 title: About Me
-description: Rev. Dr. Wade S. Allen has over 30 years of experience in ministry, blending his early Christian upbringing with a strong commitment to spiritual leadership. From his beginnings in youth ministry to his current role as pastor of the United Church in Canandaigua, New York, Wade has focused on guiding congregations with scriptural authority. His educational background and involvement in denominational leadership highlight his dedication to the faith community.
+description: Wade Allen has over 30 years of experience in ministry, blending his early Christian upbringing with a strong commitment to spiritual leadership. From his beginnings in youth ministry to his current role as pastor of the United Church in Canandaigua, New York, Wade has focused on guiding congregations with scriptural authority. His educational background and involvement in denominational leadership highlight his dedication to the faith community.
 permalink: /about/
 image: '/images/IMG_7013.png'
 ---
 
-Rev. Dr. Wade S. Allen has devoted over three decades to ministry, bringing deep experience and a passion for spiritual leadership to every congregation he serves. Raised in Georgia, Wade was nurtured in the Christian faith from a young age and was baptized at seven. His involvement in a strong youth ministry during his formative years laid the groundwork for his calling to vocational ministry.
+Raised in Georgia, Wade was nurtured in the Christian faith from a young age and was baptized at seven. His involvement in a strong youth ministry during his formative years laid the groundwork for his calling to vocational ministry.
 
 Following high school, Wade pursued a degree in Biblical Studies at Liberty University. Despite experiencing the profound loss of his father during his freshman year, Wade’s commitment to ministry grew stronger. This challenging time spurred him into his first role as a youth ministry intern, igniting a passion for student ministry that would shape the next fifteen years of his life.
 
@@ -17,3 +17,5 @@ Wade earned his Doctor of Ministry from Northern Baptist Theological Seminary, w
 Throughout his ministry, Wade has held various leadership roles within the American Baptist Churches of Indiana and Kentucky, including serving as President from 2016 to 2018. His commitment to fostering strong relationships across denominational lines underscores his dedication to a broad Christian witness.
 
 Beyond his pastoral duties, Wade enjoys teaching, mentoring, and guiding others on their spiritual journeys, always seeking to follow God’s direction and leadership in all aspects of his work.
+
+In his personal life, Wade enjoys computers, mountain biking, trail running, great coffee, reading, and all sorts of sports. He particularly enjoys Georgia Bulldog football.
