@@ -11,7 +11,7 @@
           </svg>
         </div>
         {% endif %}
-		{% assign imgday = page.date | date: "%F"  %}
+		{% assign imgday = post.date | date: "%F"  %}
         <img class="lazy" data-src="{{site.baseurl}}/images/{{ imgday }}.jpeg" alt="{{post.title}}">
       </a>
       {% endif %}
