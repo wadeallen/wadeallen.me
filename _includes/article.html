@@ -2,7 +2,7 @@
   <div class="article__inner">
 
     <div class="article__head">
-      {% if post.image %}
+      {% if post.image == "yes" %}
       <a href="{{ post.url | prepend: site.baseurl }}" class="article__image">
         {% if post.image and post.video_embed %}
         <div class="video-icon">
@@ -11,7 +11,7 @@
           </svg>
         </div>
         {% endif %}
-        <img class="lazy" data-src="{{site.baseurl}}{{post.image}}" alt="{{post.title}}">
+        <img class="lazy" data-src="{{site.baseurl}}/images/{{ page.date | date: "%F" }}.jpeg" alt="{{post.title}}">
       </a>
       {% endif %}
     </div>
