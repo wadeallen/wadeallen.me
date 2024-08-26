@@ -1,8 +1,7 @@
 ---
 title: Heart Eyes
 date: 2016-10-18
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
+image: yes
 tags: [reading, news]
 ---
  
