@@ -153,7 +153,7 @@ author_section:
   author_section_title: "Hi there 👋 ! Welcome to my fun zone. I'm Daryl, the playmaker of ideas."
   author_section_description: When I'm not crafting digital wonders, you can catch me sipping on coffee, cruising around on my bike, diving into games, and grooving to some tunes. Let's connect, share stories, and make this digital space our cozy corner. Cheers to good vibes and creative adventures!
   author_section_image: "/images/Wade_Allen.jpg"
-  author_section_image_alt: Daryl Mercer
+  author_section_image_alt: Wade Allen
   author_section_button_text: Let's сonnect!
   author_section_button_link: "/contact/"
 
@@ -175,10 +175,9 @@ footer_menu__settings:
 
 # Social Links
 social:
-- {icon: "fa-brands fa-facebook-f", name: "Facebook", link: "https://facebook.com"}
-- {icon: "fa-brands fa-x-twitter", name: "Twitter", link: "https://twitter.com"}
-- {icon: "fa-brands fa-tiktok", name: "Tiktok", link: "https://www.tiktok.com"}
-- {icon: "fa-brands fa-instagram", name: "Instagram", link: "https://instagram.com"}
+- {icon: "fa-brands fa-facebook-f", name: "Facebook", link: "https://www.facebook.com/wadesallen"}
+- {icon: "fa-brands fa-x-twitter", name: "Twitter", link: "https://x.com/wadeallen"}
+- {icon: "fa-brands fa-instagram", name: "Instagram", link: "https://www.instagram.com/wadechristy"}
 
 # Example of adding a new link to the footer - {icon: "fa-brands fa-youtube", name: "Youtube", link: https://youtube.com"}
 # Other icons can be found at https://fontawesome.com/icons
