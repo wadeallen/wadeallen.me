@@ -1,7 +1,7 @@
 ---
 title: Expectancy
 date: 2016-12-20
-image: '/images/2016-12-20.jpeg'
+image: yes
 tags: [reading, news]
 ---
  
