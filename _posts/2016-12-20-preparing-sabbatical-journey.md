@@ -2,7 +2,7 @@
 title: Preparing for a Sabbatical Journey
 date: 2016-12-20
 image: true
-tags: [church discernment, pastoral leadership, sabbatical,  direction]
+tags: [discernment, leadership, sabbatical,  direction]
 ---
  
 I have not been as faithful through 2016 in writing for this blog. Other work has taken precedence during the year. However, I am not abandoning this blog. I am more convinced than ever of the necessity of discernment in churches. This past week, I met with an area pastor. He is new to the pastorate and is following a long tenured pastor. He knows that change needs to take place but is uncertain about the timing and process. He and I talked about discerning the path that God would have the congregation travel. We often, with best intentions as leaders, begin to chart out the way that seems best to us. We then construct a plan to get the congregation to *buy in* to our plan. I explained to him that discernment begins with God. It presupposes that God is active and moving. Our job is to find out what God wants rather than decide what we want. This approach looks great on paper but is seldom practiced in churches.
