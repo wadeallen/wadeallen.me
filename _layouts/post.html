@@ -20,9 +20,9 @@ layout: default
     <h1 class="post__title">{{ page.title | escape }}</h1>
     {% endif %}
 
-    {% if page.description %}
-    <div class="post__description">{{ page.description }}</div>
-    {% endif %}
+    
+    <div class="post__description">{{ page.excerpt }}</div>
+    
 
     {% if page.video_embed %}
     <div class="post-video">
@@ -32,7 +32,7 @@ layout: default
       </div>
     </div>
     {% else %}
-    {%if page.image %}
+    {%if page.image == "yes" %}
     <div class="post-image">
       <img class="lazy" data-src="{{site.baseurl}}{{page.image}}" alt="{{page.title}}">
     </div>
@@ -43,7 +43,7 @@ layout: default
   <!-- begin post -->
   <article class="post">
     <div class="post__content">
-      {{ content }}
+      {{ content | remove_first:page.excerpt }}
     </div>
     {% include share-buttons.html %}
   </article>
