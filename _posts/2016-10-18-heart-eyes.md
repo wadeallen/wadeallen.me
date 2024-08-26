@@ -2,7 +2,7 @@
 title: Heart Eyes
 date: 2016-10-18
 image: true
-tags: [reading, news]
+tags: [Ephesians, Discernment, Prayer, Spiritual Growth]
 ---
  
 In each of Paul's letters, he follows the writing conventions of his day. He begins by identifying himself and then offers greetings. As usual, Paul then includes a prayer of thanksgiving for his readers. In Ephesians, I find his prayer suitable for our work as discerning churches. In this blog entry, I would like to highlight this invocation. Paul begins by acknowledging the faith and love of the church at Ephesus.

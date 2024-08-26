@@ -33,8 +33,9 @@ layout: default
     </div>
     {% else %}
     {%if page.image == true %}
+	{% assign imgday = page.date | date: "%F"  %}
     <div class="post-image">
-      <img class="lazy" data-src="{{site.baseurl}}/images/{{ page.date | date: "%F" }}.jpeg" alt="{{page.title}}">
+      <img class="lazy" data-src="{{site.baseurl}}/images/{{ imgday }}.jpeg" alt="{{page.title}}">
     </div>
     {% endif %}
     {% endif %}

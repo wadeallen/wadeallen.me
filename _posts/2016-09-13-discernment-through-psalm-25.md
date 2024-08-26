@@ -1,8 +1,8 @@
 ---
-title: Meeting Exercise
+title: Embracing Discernment Through Psalm 25
 date: 2016-09-13
 image: true
-tags: [reading, news]
+tags: [discernment, church leadership, Psalm 25, spiritual guidance]
 ---
  
 I am beginning to see the word *discern* a bit more these days. In books, magazine articles and blog entries the word is all over the place. However, I am not sure that we fully understand the word. The word is defined in one place as:
