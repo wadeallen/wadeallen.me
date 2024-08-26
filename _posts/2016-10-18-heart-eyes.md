@@ -1,7 +1,7 @@
 ---
 title: Heart Eyes
 date: 2016-10-18
-image: yes
+image: true
 tags: [reading, news]
 ---
  

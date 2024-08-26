@@ -2,7 +2,7 @@
   <div class="article__inner">
 
     <div class="article__head">
-      {% if post.image == "yes" %}
+      {% if post.image == true %}
       <a href="{{ post.url | prepend: site.baseurl }}" class="article__image">
         {% if post.image and post.video_embed %}
         <div class="video-icon">

@@ -32,7 +32,7 @@ layout: default
       </div>
     </div>
     {% else %}
-    {%if page.image == "yes" %}
+    {%if page.image == true %}
     <div class="post-image">
       <img class="lazy" data-src="{{site.baseurl}}/images/{{ page.date | date: "%F" }}.jpeg" alt="{{page.title}}">
     </div>
