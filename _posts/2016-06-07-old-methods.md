@@ -1,7 +1,7 @@
 ---
 title: "The Peril of Old Methods: Lessons from the Sons of Thunder"
 date: 2016-06-07
-image: false
+image: true
 tags: [discipleship, discernment, leadership, James]
 ---
  
