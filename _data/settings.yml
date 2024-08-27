@@ -13,9 +13,7 @@ menu_settings:
   menu_items:
     - title: "Home"
       url: "/"
-    - title: "Projects"
-      url: "/projects/"
-    - title: "Posts"
+    - title: "Blog"
       url: "/posts/"
     - title: "About Me"
       url: "/about/"
@@ -166,9 +164,7 @@ footer_menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
-    - title: 'Projects'
-      url: '/projects/'
-    - title: 'Posts'
+    - title: 'Blog'
       url: '/posts/'
     - url: '/about/'
       title: 'About Me'
