@@ -1,9 +1,8 @@
 ---
-title: The Improbable
+title: "Chosen for a Purpose: The Unlikely Twelve"
 date: 2016-05-24
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
+image: true
+tags: [disciples, Jesus, leadership, discernment]
 ---
  
 This summer, we are exploring the Twelve Disciples of Jesus. For several years, I have contemplated doing this series. I thought it would be fun to spend time exploring the lives of these men. I was a bit surprised how little information we have on some of them. These are pretty important people; they were chosen by Jesus to hold noteworthy positions in the Kingdom of God. They are replacing the twelve tribes of Israel. We read of their prominence in Revelation 21.
