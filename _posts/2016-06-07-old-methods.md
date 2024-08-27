@@ -2,7 +2,7 @@
 title: "The Peril of Old Methods: Lessons from the Sons of Thunder"
 date: 2016-06-07
 image: true
-tags: [discipleship, discernment, leadership, James]
+tags: [discipleship, discernment, leadership, james]
 ---
  
 As we continue to consider the twelve disciples in worship, we focus on James this week. While he is one of the lead disciples, he is seldom mentioned alone in Scripture. In fact, the only time he is cited without his brother John is when he is martyred in Acts 12.
