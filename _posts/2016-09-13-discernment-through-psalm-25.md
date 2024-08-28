@@ -5,7 +5,9 @@ image: true
 tags: [discernment, leadership, psalm]
 ---
 
-I’m beginning to see the word *discern* more frequently these days. In books, magazine articles, and blog entries, the word seems to be everywhere. However, I'm not sure we fully understand its meaning. One definition describes discernment as:
+I’m beginning to see the word *discern* more frequently these days. In books, magazine articles, and blog entries, the word seems to be everywhere. However, I'm not sure we fully understand its meaning. 
+
+One definition describes discernment as:
 
 > perceive or recognize (something)
 
