@@ -2,6 +2,7 @@
 title: Navigating New Territory
 date: 2016-04-26
 image: true
+tags: [discernment, spirit, acts, guidance, leadership]
 ---
 
 A few weeks ago, I was directed by the lectionary to Acts 11. I found this passage so compelling that I decided to spend an extended period meditating on it. I slowly read through each verse, looking for words that stood out to me. I found this story astonishingly relevant to the issue of discernment in churches.
