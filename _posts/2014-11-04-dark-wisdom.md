@@ -1,9 +1,6 @@
 ---
 title: Dark Wisdom
 date: 2014-11-04
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
  
 I have always thought of wisdom as coming from God. But in my sermon preparation this week, I encountered a new dynamic in my understanding of wisdom. James speaks of wisdom from above (heaven) and wisdom from below. In James 3, he describes the below-wisdom as including *bitter jealously* and *selfish ambition*. He says of this wisdom,

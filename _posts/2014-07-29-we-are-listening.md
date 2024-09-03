@@ -1,9 +1,6 @@
 ---
 title: We are Listening
 date: 2014-07-29
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
  
 My middle name is Samuel. When I was a kid I enjoyed hearing the story of the boy Samuel being called by God. The account is found in 1 Samuel. You might remember his barren mother (Hannah) begging God for a child. She promised to offer the child to God if her womb were opened. Her prayers were answered and she gives birth to a son. She is faithful to send her son to Eli the priest when he gets old enough. We are told,

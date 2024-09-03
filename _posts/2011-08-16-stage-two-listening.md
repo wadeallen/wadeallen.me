@@ -1,9 +1,6 @@
 ---
 date: 2011-08-16 17:38:57
 title: The Listening Stage
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
 
 We met again last night to develop a listening strategy. A listening strategy is the plan to hear voices around us. It includes listening to outsiders, to the congregation, to God. It might seem strange to have a strategy for listening. Yet, we emphasize this stage because we often fail to listen. Both change and conflict literature and our own historical interviews highlight the need to listen. The strategy should address the various sources we need to hear; too often we listen to lone voices. We make a decision because another church went a particular direction. Or we decide based on what a few loud voices state at a church business meeting. Or we move in directions that make sense to us without taking the time to listen to others. 

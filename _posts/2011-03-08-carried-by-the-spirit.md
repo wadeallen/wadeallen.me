@@ -1,9 +1,6 @@
 ---
 date: 2011-03-08 17:50:11
 title: Carried by the Spirit
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
 
 The more I preach, the more I realize how the context of our life impacts our reading of scripture. We certainly don't want our life situations to rule the text. Yet it seems the Spirit uses the books we read, the people we encounter, the challenges of daily life to inform our reading of scripture. Each time I come to a text, it looks different; I see new things. 

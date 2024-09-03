@@ -1,9 +1,6 @@
 ---
 title: Resolutions
 date: 2015-01-06
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
  
 January is a unique time of year. On the one hand, the winter season is often slower paced. A winter storm provided extra sleep today for us as the school system enacted a two hour delay to clear the roads. My kids do not participate in winter sports so this season is somewhat restful. At the same time, the calendar has recently changed to a new year. With this, we are faced with new goals and ideas about what 2015 will hold. As we consider resolutions for the new year, allow me to reflect on Psalm 16.

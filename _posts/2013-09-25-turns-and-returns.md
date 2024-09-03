@@ -1,9 +1,6 @@
 ---
 date: 2013-09-25
 title: Turns and Returns
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
 
 In October, we begin a sermon series on the book of Ruth. I have found the research fascinating. In the second sermon, we cover the latter part of chapter one. Naomi urges Ruth and Orpah to return to their families. However, Ruth is persistent and  confident that she will remain with Naomi. One scholar points to a key word in this text; it is the Hebrew word *shuv*. A common word (used 985 times in the OT), it is often translated as *turn* or *return* or *back*. It is sometimes translated as *repent*. This word is used 14 times in the book of Ruth (11 times in this first chapter). I find this word particularly relevant to the topic of discernment. 

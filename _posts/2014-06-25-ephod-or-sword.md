@@ -1,9 +1,6 @@
 ---
 title: Ephod or Sword
 date: 2014-06-25
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
  
 As we navigate through our study on the life of David, I am astonished its relevance to the issue of discernment. In this week's text, we find David on the run from Saul. You might recall the dynamics of the situation. David escaped from Saul's palace through a window (with the help of his wife, Michal). In a desperate move, David travels to the priestly town of Nob. Rather than honestly approach the situation, he lies to the priest and seeks provisions for his journey. There is no mention of seeking God's direction. In 1 Samuel 21, we are simply told,

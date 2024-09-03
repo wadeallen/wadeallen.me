@@ -1,9 +1,6 @@
 ---
 date: 2012-03-13 17:03:18
 title: Implementing with Open Ears
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
 
 I wanted to update you on the status of our recent decision to change our Sunday morning schedule. We are planning on making the change the week after Easter. It has been a long road of listening, discerning and listening a bit more. Yet it seems that it is time to pull the trigger on the change. With most of the congregation supportive, a leadership team ready to make any unforeseen adjustments and a natural shift in seasons (Spring), it seems that the timing is right.

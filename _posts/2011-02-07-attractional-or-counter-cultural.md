@@ -1,9 +1,6 @@
 ---
 date: 2011-02-07 22:01:45
 title: Attractional or Counter-Cultural
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
 
 I have been preaching this year from the lectionary texts. It has been a new and challenging exercise for me.  I have not given up on expository preaching; I teach the lectionary text in an expository fashion. We have been in Matthew 5 for the last few Sundays. I've heard these passages many times; yet they are fresh this season. The values of the Kingdom challenge me beyond measure. I also like how the lectionary provides complementary texts. Last week, the text from the Epistles was 1 Corinthians 2:1-12, 13-16. As I meditated on this text, I found myself questioning my approach to ministry. Having served as a youth pastor for fifteen years, my approach to ministry has been an attractional approach. How can we get teens interested in spiritual matters? How can we get them to come to church? Through youth ministry conferences and training materials, I have been schooled to make church relevant to teens.

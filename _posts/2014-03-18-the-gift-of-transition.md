@@ -1,9 +1,6 @@
 ---
 title: The Gift of Transition
 date: 2014-03-18
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
  
 We have experienced a few weeks without our Associate Pastor. I have to admit, my plate feels a bit full these days as the only paid staff person at the church. My inclination is hire someone soon. However, we must not react to the pressure of daily/weekly tasks. We must adequately assess what God is doing among us.

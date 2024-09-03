@@ -1,9 +1,6 @@
 ---
 date: 2013-02-05
 title: 70 sextillion stars
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
 
 Today, I am preparing a homily for funeral. Fred Shulze passed away last week. Fred was the organist at First Baptist Church Muncie for almost 40 years. He was also a professor at Taylor University and Upland, Indiana. I will be reading from a psalm during the service; the psalms are certainly appropriate for musicians.  Yet many of us non-musicians also find the Psalms helpful. They aid us in our worship. When we are unable to express ourselves, the psalms help us form words to God.

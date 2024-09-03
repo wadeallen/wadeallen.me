@@ -1,9 +1,6 @@
 ---
 date: 2013-04-02
 title: God's Dwelling
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
 
 This coming Sunday, we are beginning a book study in Ephesians. For the next several months, we will be walking through Paul's letter. I have to admit, some of the passages are going to be challenging. Paul delves deep into God's salvation plan and articulates our role in this plan. He paints  a picture of a church functioning as God intended. Early on, Paul's speaks in Trinitarian terms. He highlights the role of the Father, the Son and the Spirit. 

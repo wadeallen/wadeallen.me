@@ -1,9 +1,6 @@
 ---
 date: 2012-01-10 19:32:37
 title: Another Decision
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
 
 It has been a while since I have blogged on this site. I have been a bit overwhelmed finishing my doctoral thesis. However, I hope to contribute to this site throughout 2012. My thesis has been submitted to the second reader and I have a bit of time to sit back and evaluate what I have learned.

@@ -1,9 +1,6 @@
 ---
 title: Pulled Away
 date: 2014-03-11
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
  
 For the past few months, I have failed to update this blog. It has been a season of transition for our church; it has been necessary to give time to other items. Enough with the excuses; I am diving back into this work. I enjoy the discipline and work of writing. It helps me articulate particular aspects of what it means to live as a discerning church. As I have written before, this is an ongoing process. We are constantly pulled away from this posture as we are enticed toward other means of decision-making. 

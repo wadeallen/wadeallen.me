@@ -1,9 +1,6 @@
 ---
 date: 2010-09-01 18:24:05
 title: A Speaking God
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
 
 I have been reading A.W. Tozier's book, *The Pursuit of God* as devotional reading.  His words, over fifty years old, speak to the heart of discerning.  The sixth chapter is especially applicable.

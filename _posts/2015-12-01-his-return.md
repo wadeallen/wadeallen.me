@@ -1,9 +1,6 @@
 ---
 title: His Return
 date: 2015-12-01
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
 
 During this season of Advent, we are following the lectionary passages. This year the epistle passages deal with Jesus' return. We don't always consider this facet of Advent. We think of the birth of Jesus, His first coming; we often ignore His second coming.

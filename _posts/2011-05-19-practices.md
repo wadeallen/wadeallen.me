@@ -1,9 +1,6 @@
 ---
 date: 2011-05-19 14:51:05
 title: Practices
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
 
 We are moving along with our work on developing a process of discernment.  However, the deeper I get in this process, the more complicated it seems. I am sure that we cannot pin this topic down to a commodified process. In the same way, agreeing on a system of practices seems helpful.

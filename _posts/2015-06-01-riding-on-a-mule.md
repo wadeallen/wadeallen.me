@@ -1,9 +1,6 @@
 ---
 title: Riding on a Mule
 date: 2015-06-01
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
  
 This summer, we are working through the life of Solomon. I have enjoyed preparing the sermons and am excited about our congregation engaging the story together. Yesterday, we began our study in 1 Kings. I don't think I have ever preached nor heard a sermon on this chapter. The story involves David, as an old man, snuggling in bed with a young virgin. All the while, his oldest living son is planning to snatch the kingdom. Adonijah has formed an alliance and is making plans to crown himself king. Thankfully, David's prophet (Nathan) and wife (Bathsheba) step in to alert David. David takes charge and uses his resources to establish Solomon on the throne. 

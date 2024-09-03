@@ -1,9 +1,6 @@
 ---
 date: 2012-08-29 18:00:07
 title: Small Group Discerning
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
 
 I have been thrilled to use material from my doctoral thesis in a variety of practical contexts. It seems that groups are constantly needing to make decisions. We often wait until we are forced to choose a direction, not able to give appropriate time and attention to seeking God's promptings.  Yet when groups are able to dedicate time to a process, they are able to slow down and come to a unified decision. This summer, we have worked through a discernment process with a group of young adults in our church. 

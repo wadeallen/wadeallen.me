@@ -1,9 +1,6 @@
 ---
 date: 2012-04-03 15:31:48
 title: Good Meetings
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
 
 Meetings are often longer than planned. Minor tasks sometimes take hours to accomplish. I will tell my wife that I will be done in an hour; three hours later I am texting her informing her that I am on my way home. Business leaders have written books about the inefficiency of meetings encouraging leaders to nix the get-togethers. While I understand the frustration of discussing unrelated and insignificant details, I am sure that meetings are essential.

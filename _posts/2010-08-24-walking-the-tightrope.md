@@ -1,9 +1,6 @@
 ---
 date: 2010-08-24 19:31:25
 title: Walking the Tightrope
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
 
 Several weeks ago, I read Alan Roxburgh's *Missional Map-Making: Skills for Leading in Times of Transition.*  As I continue to reflect on this work, particular aspects seem worthy of note.

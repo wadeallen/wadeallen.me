@@ -1,9 +1,6 @@
 ---
 date: 2011-06-21 17:14:51
 title: Not Foolish Anymore?
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
 
 We are heading into a sermon series on 1 Corinthians. As I prepare for these sermons, I am struck by the clash of the gospel with culture. In 1 Corinthians 1:18–2:16, Paul describes the gospel as "foolishness" to those in his culture. The Greek word for foolish is *mōria*; we derive the word *moron* from this word. Why is the gospel no longer foolish to our world?

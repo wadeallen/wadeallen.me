@@ -1,9 +1,6 @@
 ---
 date: 2011-03-28 17:02:46
 title: Becoming Blind
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
 
 We are studying the healing of the blind man in John 9 this week. I reflected a bit on the church blog [here](http://fbcmuncie.org/blog/seeing-god/ "Seeing God"). But as I consider this story, I find tremendous implications for discernment.

@@ -1,9 +1,6 @@
 ---
 title: Anointing David Part Two
 date: 2014-04-08
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
  
 Last week, we discussed the story of David's anointing from 1 Samuel 16.Today, I would like to continue to write about the implications for discerning in this story. We left off in the previous post with a hesitant Samuel with orders from God to travel to Jesse's house. Samuel is obedient and follows God into the unknown.

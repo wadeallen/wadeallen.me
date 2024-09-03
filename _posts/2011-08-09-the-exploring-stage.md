@@ -1,9 +1,6 @@
 ---
 date: 2011-08-09 20:52:36
 title: The Exploring Stage
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
 
 I met last night with a group of leaders to begin working through a decision. Developing this discernment process has been difficult and complicated. Yet, we feel that it directs the decision-making process. As we gathered last night, it was interesting to see how it played out. Fifteen leaders gathered around the table for initial conversations. The question was posed: How will we staff in 2012 and beyond?

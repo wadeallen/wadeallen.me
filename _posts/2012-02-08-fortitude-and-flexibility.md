@@ -1,9 +1,6 @@
 ---
 date: 2012-02-08 22:16:41
 title: Fortitude and Flexibility
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
 
 As I reflect on the dynamic of discernment, I am living in the tension of process and free-flowing forms of interaction. We want to be intentional about moving forward. At the same time, we want to be open to the movement of the Holy Spirit. Are these dynamic incompatible? Can they co-exist?

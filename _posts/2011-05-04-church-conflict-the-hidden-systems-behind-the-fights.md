@@ -1,9 +1,6 @@
 ---
 date: 2011-05-04 18:34:49
 title: 'Church Conflict: The Hidden Systems Behind the Fights'
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
 
 I have been deep in Charles Cosgrove and Dennis Hatfield's book *Church Conflict: The Hidden Systems Behind the Fights* the past two days. The work is extremely insightful. They state their purpose in the first chapter.

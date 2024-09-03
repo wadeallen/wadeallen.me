@@ -1,9 +1,6 @@
 ---
 date: 2012-05-29 14:36:15
 title: Meeting in Person
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
 
 This past week, I was listening to a podcast from a well-known seminary. The guest, a higher education professional, was responding to recent trends in online education; he expressed concern about the lack of face to face interaction. While he affirmed the use of technology in education (his school produces a weekly podcast), he asserted a model of education that adequately balances personal interaction with online correspondence.  While some technical skills may be sufficiently acquired through less personal modes, he felt it requisite for personal professions (such as teachers, nurses or clergy) to be trained in face to face settings. 

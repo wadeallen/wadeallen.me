@@ -1,9 +1,6 @@
 ---
 date: 2012-07-03 19:59:09
 title: A Mixed Bag
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
 
 I am currently preaching through the book of Genesis; we are now in the story of Abraham. His story alone could be the subject of a year's worth of sermons. His life is fascinating. Called to leave his homeland, he ventures with God into the unknown. It is easy to paint him with praiseworthy tones.  The author of Hebrews describes him as a man of intense faith; certainly he is. Yet, in the mix are days when he is not so faithful; these are the stories we like to forget. He (it was really his wife's idea) takes a second wife; he decides to take the fulfillment of God's promise into his own hands. He lies to Abimelech about Sarah being his wife; fearful for his life, he risks his wife's purity. He asks God not to destroy two wicked cities; he wonders if they are really "that bad" after all. How do we reconcile such faithfulness with such failure? How can this man be a hero of the faith if he falters so much of the time?

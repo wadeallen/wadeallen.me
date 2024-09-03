@@ -1,9 +1,6 @@
 ---
 date: 2013-02-19
 title: Stepping Out
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
 
 This Sunday, we will be exploring one of the strangest stories in the Gospels. Jesus' ministry is coming to a close. He is talking more and more about leaving, about dying. I am not sure that the disciples fully understood his predictions. Midway through Luke 9, we are  able to peer into a private conversation between Jesus and his disciples.

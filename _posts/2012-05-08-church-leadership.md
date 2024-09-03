@@ -1,9 +1,6 @@
 ---
 date: 2012-05-08 20:44:34
 title: Church Leadership
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
 
 Trends in church leadership come and go. In the 80s and 90s a tendency to fashion church leadership after business leadership was common. In my seminary coursework, I was required to read corporate leadership books. It was not uncommon to find CEOs of major companies leading sessions at conferences for pastors. While many churches grew tremendously in size, church meetings felt more like executive board meetings than the body of Christ gathered. Strategic planning, job performance and quarterly results became the language of pastors.

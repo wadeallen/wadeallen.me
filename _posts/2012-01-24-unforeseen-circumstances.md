@@ -1,9 +1,6 @@
 ---
 date: 2012-01-24 20:02:46
 title: Unforeseen Circumstances
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
 
 We are on the other side of the January 22 meeting. One unforeseen detail was that I did not attend. On Saturday afternoon, I came down with a stomach virus. I was unable to preach in morning worship and attend the meeting on Sunday evening. As I lay in bed pondering what this would mean, I assured myself that God was in control; perhaps there was a reason I was afflicted. I am still not sure of the reason, but I did learn a few valuable lessons.

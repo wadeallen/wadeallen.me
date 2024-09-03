@@ -1,9 +1,6 @@
 ---
 title: Patiently Urging
 date: 2014-12-02
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
  
 It is the season of Advent. During this season, we generally follow the lectionary passages in our worship on Sunday mornings. This year, we are sticking with the Gospel passage each week. However, I usually take time during the week to study the other passages. This morning, I was directed to 2 Peter 3:8-15. The first part of this passage speaks of God's patience. We might wonder why God is delaying his return. Peter reminds us that God does not desire that any perish. Therefore, He is holding off. 

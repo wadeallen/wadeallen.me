@@ -1,9 +1,6 @@
 ---
 title: Failing to Understand
 date: 2014-10-07
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
  
 We are all familiar with the infamous story of Jesus feeding the large crowd with only five loaves of bread and two fish. 

@@ -1,9 +1,6 @@
 ---
 date: 2012-10-04
 title: God's Timing
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
 
 In the last couple of weeks, we have been walking through the story of Joseph. We have particularly focused on God's timing in Joseph's life. In Genesis 40-41, Joseph is required to wait on God. Joseph lands in prison after being accused of raping Potiphar's wife. He apparently is imprisoned for some time before his interaction  with Pharaoh's cupbearer and baker. As you read the story, it seems that the events happen very quickly. Yet a closer look informs us that Joseph's stay in prison was not short. Genesis 40 only says,

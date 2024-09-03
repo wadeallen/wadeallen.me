@@ -1,9 +1,6 @@
 ---
 date: 2011-10-04 17:39:48
 title: Promotion-Focused vs. Prevention-Focused
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
 
 A couple weeks ago, my thesis supervisor was in Muncie for an on-site visit. We reviewed the work of the first few chapters and talked about areas that needed work. One of the oversights was psychosocial research. I assumed that confidence in decision-making was something that would naturally lead to better decisions. I needed to evaluate whether this assumption was true. In the past couple of weeks I have read a variety of studies about confidence and decision-making. One of the studies caught my attention and I would like to share it with you.

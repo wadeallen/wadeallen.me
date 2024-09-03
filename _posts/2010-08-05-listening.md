@@ -1,9 +1,6 @@
 ---
 date: 2010-08-05 21:16:59
 title: Listening
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
 
 Yesterday, our worship arts director emailed me; He asked for direction in choosing someone to share a testimony in an upcoming service.  I left the email in my inbox, planning to deal with it later.

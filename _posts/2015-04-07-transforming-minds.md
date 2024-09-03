@@ -1,9 +1,6 @@
 ---
 title: Transforming Minds
 date: 2015-04-07
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
  
 At First Baptist Muncie, we begin a special season of outreach emphasis on Sunday. Within our missional community groups, we are organizing a three-week period of seven projects. I am excited for all that God will do during this season in the life of our church. Along with these projects, we are going to be focusing on the idea of *reaching* in our sermons. This week, we come to Romans 12:1-8.

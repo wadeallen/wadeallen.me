@@ -1,9 +1,6 @@
 ---
 title: Rethinking Decisions
 date: 2015-06-23
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
  
 As I continue to explore the life of Solomon, I find increasing application around the issue of discernment. Most are familiar with the story in 1 Kings 3 of Solomon's opportunity to ask God for anything he desires. 

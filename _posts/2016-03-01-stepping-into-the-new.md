@@ -1,9 +1,6 @@
 ---
 title: Stepping Into the New
 date: 2016-03-01
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
  
 Discerning has become a key issue for me in ministry. I find myself constantly using the word in conversations, leader meetings and even interactions with other churches. I feel like those around me are thinking, "Here he goes again talking about discernment." I often try to avoid the word because I don't want to overuse it. But I can't get away from it. A central aspect to the issue of discerning is change. God often calls us into new ventures, new ways of operating, new seasons of life. We must discern this calling and respond appropriately. As I was reading through the lectionary passages for this week, I stumbled across an unfamiliar story in the book of Joshua. 

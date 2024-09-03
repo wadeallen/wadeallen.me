@@ -1,14 +1,6 @@
 ---
 date: 2010-07-05
 title: Surprised
-description: We are challenged to reconsider our understanding of God, warning against confining Him to human institutions or ideologies. Using the example of Peter's encounter with Cornelius in Acts 10, it highlights how God often surprises us, pushing us out of our comfort zones and challenging our expectations.
-image: '/images/04.jpg'
-tags:
-  - Faith
-  - Growth
-  - Guidance
-  - Challenges
-  - Acts
 ---
 
 Have you figured God out?  Have you heard enough about Him, studied Him enough, been around His people long enough to determine how he stands on every issue?  Is He predictable, unsurprising?

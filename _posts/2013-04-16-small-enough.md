@@ -1,9 +1,6 @@
 ---
 date: 2013-04-16
 title: Small Enough
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
 
 Nichole Nordeman wrote a song entitled *Small Enough*. In the song, she is seeking an accessible encounter with God. She asks, 

@@ -1,9 +1,6 @@
 ---
 date: 2012-11-27
 title: He is Coming
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
 
 We begin the season of Advent this Sunday. It is a season of anticipation. Last year, we followed the lectionary passages through Isaiah. We discussed the prophet's predictions of the Messiah and how Jesus fulfilled the words of Isaiah, spoken hundreds of years before His birth. This year, the lectionary passages focus on the second coming of Christ. We don't often think of Jesus's second coming as a topic for the Advent season.  However, just as the prophets expected the coming Messiah, we anticipate Jesus's return. Advent is an appropriate season for this matter.

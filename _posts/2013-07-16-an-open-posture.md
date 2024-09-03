@@ -1,9 +1,6 @@
 ---
 date: 2013-07-16
 title: An Open Posture
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
 
 This summer, we are navigating two discernment processes as a congregation. Each one has its challenges. This past Sunday, we spent nearly 4 hours in the Examine stage of one of these processes. It was a long and difficult conversation. We worked through various issues, identifying what God was saying to us in each issue.  As is often the case, some in the group were more vocal. However, I prodded the quiet participants until everyone had spoken. It was amazing to watch the group build consensus. 

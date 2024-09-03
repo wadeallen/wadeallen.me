@@ -1,9 +1,6 @@
 ---
 date: 2010-08-10
 title: Our Building
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
 
 I recently completed a paper for a summer course.  Here are a few thoughts concerning our building.

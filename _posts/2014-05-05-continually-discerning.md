@@ -1,9 +1,6 @@
 ---
 title: Continually Discerning
 date: 2014-05-05
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
  
 Tomorrow, we begin another season of discerning at First Baptist. I have lost count on how many times we have been through a discernment process in the past few years. No doubt, using this process has been helpful. As we prepare to dive in once again, I would like to make a few observations. 

@@ -1,9 +1,6 @@
 ---
 date: 2012-06-12 20:32:24
 title: Complainers
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
 
 One of the most challenging dynamics in church leadership is dealing with complainers. There are some among us who have the "spiritual gift" of finding the wrong and letting you know about it. They don't often have the solution; they just want to point out the undesirable. They deem it the leader's responsibility to fix it. Every church has a select few who hold this mantle. The early church (in the book of Acts) was no exception. 

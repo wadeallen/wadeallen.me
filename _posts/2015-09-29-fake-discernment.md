@@ -1,9 +1,6 @@
 ---
 title: Fake Discernment
 date: 2015-09-29
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
  
 A few weeks ago in my morning devotions, I was reading a passage from the lectionary. This text is particularly applicable to discerning churches. I would like to share it with you.

@@ -1,9 +1,6 @@
 ---
 date: 2012-05-14 18:53:13
 title: Fighting Old Models
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
 
 One of the challenges of becoming a discerning church is fighting old models of decision-making. Discerning is no easy task. It is not very efficient and requires time and energy (two highly valuable commodities in our world today). In addition, it is natural to revert to ingrained patterns of functioning, such as political jockeying or power/control maneuvers. So what can we do as church leaders to keep our congregations from slipping back into such practices? While the answer is not simple, I hope to offer a few suggestions in this blog post.

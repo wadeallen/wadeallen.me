@@ -1,9 +1,6 @@
 ---
 date: 2013-08-07
 title: God's People
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
 
 Tonight, we will begin our fall session of our missional community. In the spring, we conducted a pilot/test group. We found the rhythm of the schedule suitable and helpful for discipleship at First Baptist. In short, we meet on the first week of the month as a large group (30-50) for a meal and family worship. On  the second week of the month, Life Groups meet in homes (8-12). During the third week of the month, we gather as a large group (30-50) to serve our community. This month, we will pick up trash in the downtown Muncie area. On the fourth week of the month, we are once again in homes (Life Groups 8-12). 

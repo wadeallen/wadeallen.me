@@ -1,9 +1,6 @@
 ---
 date: 2013-04-08
 title: Picture of God
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
 
 As I am preparing for this week's sermon, a particular phrase in the text struck me. Paul is praying for the Ephesian church (and other churches who would receive this letter). He wants them to fully experience  what it means to know Jesus. The phrase that is curious is,

@@ -1,9 +1,6 @@
 ---
 date: 2011-05-31 17:03:31
 title: Muddled Missions
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
 
 This week, I am preaching on Luke 24. Jesus finds the disciples in a state of confusion after he rises from the dead. No doubt, they are afraid, yet joyous; they believe, yet they doubt.  John Stott puts it this way.

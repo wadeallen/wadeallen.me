@@ -1,9 +1,6 @@
 ---
 date: 2010-10-04 22:59:24
 title: The Proper Posture
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
 
 Discerning is a continual process. Once we think we have it nailed, God reveals something new. We are sometimes discouraged, not sure where God is leading. Yet, this is the nature of relationship. It is impossible to relate to someone if there is no interaction.

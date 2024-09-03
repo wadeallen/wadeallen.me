@@ -1,9 +1,6 @@
 ---
 title: Discernment Update 
 date: 2014-08-21
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
  
 We spent most of Monday night's meeting developing a listening strategy for our church staff discernment process. I thought I would post a description on this site. This article will also be included in our next monthly newsletter at First Baptist Muncie.

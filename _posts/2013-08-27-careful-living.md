@@ -1,9 +1,6 @@
 ---
 date: 2013-08-27
 title: Careful Living
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
 
 I was eating lunch today at the student center at Ball State. College students are back and the place was buzzing. My friend and I were talking about the hectic schedules that everyone seems to have. While technology allows  us to accomplish, with a button press, what took our ancestors hours to complete, our lives are busier than ever. We mindlessly run from one activity to the other. As I prepare for this week's sermon, I find Paul's admonition particularly relevant in our culture. He tells us,

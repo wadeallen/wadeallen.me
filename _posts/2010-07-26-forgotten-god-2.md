@@ -1,9 +1,6 @@
 ---
 date: 2010-07-26
 title: Forgotten God
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
 
 Last week, I read *Forgotten God: Reversing Our Tragic Neglect of the Holy Spirit* by Francis Chan.  Recommended by a friend, the book challenged me in my understanding of the Holy Spirit.  I thought I would share a few of his insights while recommending this work to you.

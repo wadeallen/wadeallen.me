@@ -1,9 +1,6 @@
 ---
 title: Finding Ourselves
 date: 2016-03-29
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
  
 We often hear people describing ventures of self-seeking. They retreat from the normal pace of life to _find themselves_. Maybe it is a multi-week hike into the mountains or even a rebellion against the rules of society. They feel lost and need clarity around their identity.

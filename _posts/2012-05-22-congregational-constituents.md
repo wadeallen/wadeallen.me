@@ -1,9 +1,6 @@
 ---
 date: 2012-05-22 14:59:27
 title: Congregational Constituents
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
 
 As you may know, I recently completed a doctoral thesis. The premise was that my current church is dealing with some level of paralysis in its decision-making. The paralysis is a result of injury from past conflict. I feel that we have made some progress over the past year as we have developed a process of discernment.  This process was intended to break the paralysis, leading the church into Spirit-informed decision-making. One of my conclusions (in my thesis) was that this transition (from paralysis to active Spirit-led decision-making) is not quick. In fact, I find myself (as the pastor) constantly discovering pockets of paralysis. I feel like the physical therapist who has worked with a patient over and over; I return to the hospital room to find him shriveled, unable to walk. I question if my efforts are working. 

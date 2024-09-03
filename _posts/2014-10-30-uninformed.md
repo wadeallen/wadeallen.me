@@ -1,9 +1,6 @@
 ---
 title: Uninformed
 date: 2014-10-30
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
  
 Today is a sermon preparation day for me. I have been hanging out in a coffee shop most of the day working on a sermon for November 30. The last Sunday in November is the first Sunday of Advent. The passage is Mark 13:24-37. It is not an easy text. 

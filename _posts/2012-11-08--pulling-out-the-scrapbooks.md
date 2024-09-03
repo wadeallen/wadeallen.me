@@ -1,9 +1,6 @@
 ---
 date: 2012-11-08
 title: Pulling out the Scrapbooks
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
 
 I am working with a team in our congregation to develop a pilot missional community. We hope to begin this endeavor in 2013. We are using Mike Breen and Alex Absalom's [Launching Missional Communities: A Field Guide](http://amazon.com/dp/B004349PLO "Launching Missional Communities: A Field Guide: Mike Breen, Alex Absalom: 9780982452196: Amazon.com: Books"). This resource has provided a framework for our discussions. Last night, we had our second meeting. We are deliberating the logistics of beginning this new ministry. In our conversation,  we talked about past ministries in our congregation. Particularly, we surveyed the various dynamics of Sunday school classes that began in the 1920s-1940s in our church. One class is still in existence; only 4 or 5 people remain. Several months ago, I came across scrapbooks from this Sunday school class. It was fascinating to see the notes, attendance rolls, newspaper articles, class budgets and mission plans. Tattered pages revealed the ways these classes functioned. 

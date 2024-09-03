@@ -1,9 +1,6 @@
 ---
 date: 2013-07-08
 title: Entering Into the Story
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
 
 This past week, I have been re-reading a book entiled [Missional Map-Making: Skills for Leading in Times of Transition](http://rcm-na.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=wadblo-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=0470486724) by Alan Roxburgh. I read it for the first time shortly after its publication in 2010. I was in  the midst of my doctoral work. On the other side of this endeavor, I wanted to revisit the book. I find it incredibly relevant for a discerning church.

@@ -1,9 +1,6 @@
 ---
 date: 2011-02-14 16:40:00
 title: Learning from The Daily
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
 
 As some of you know, I enjoy listening to tech podcasts. Pundits express the implications of current technologies on various platforms. I guess I am geek, but I enjoy listing in. This past week, a panel discussed a recently launched digital newspaper called [The Daily](http://www.thedaily.com/ "The Daily"). If you go to their Web site, they advertise "New Times Demand New Journalism." They tout this experience as a solution to an ever increasing digital world. What caught my attention was the criticism of the panel. 

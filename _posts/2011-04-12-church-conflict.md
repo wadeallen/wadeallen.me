@@ -1,9 +1,6 @@
 ---
 date: 2011-04-12 19:07:09
 title: Making Peace
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
 
 I recently read Jim Van Yperen's book, *Making Peace: A Guide to Overcoming Church Conflict*. This is a premier work for church leaders. A notable feature is Van Yperen's view of conflict. He sees it as an opportunity for God to work. Resolving conflict is not about making people happy. It is an opportunity for the church to regain its authentic role.

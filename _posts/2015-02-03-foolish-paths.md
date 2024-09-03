@@ -1,9 +1,6 @@
 ---
 title: Foolish Paths
 date: 2015-02-03
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
 
 I am writing a sermon this week that is based on 1 Corinthians 1:18-25. Paul reminds us that the message of Christianity is radical. The fact that God came to us in the form of a suffering servant does not equate. Paul put it this way.

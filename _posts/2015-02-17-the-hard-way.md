@@ -1,9 +1,6 @@
 ---
 title: The Hard Way 
 date: 2015-02-17
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
  
 This week begins the liturgical season of Lent. When I was growing up, I did not understand Lent. I thought it was reserved for Roman Catholics. Since I was Southern Baptist, I thought I was exempt; I did not have to give up chocolate like my Catholic friends. As I have grown older, I have come to understand that Lent is for everyone. It is a season of reflection and preparation for Easter.

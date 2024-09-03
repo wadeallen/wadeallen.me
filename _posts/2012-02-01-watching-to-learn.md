@@ -1,9 +1,6 @@
 ---
 date: 2012-02-01 16:03:37
 title: Watching to Learn
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
 
 In the morning, I generally read [Common Prayer: A Liturgy for Ordinary Radicals](http://www.amazon.com/Common-Prayer-Ordinary-Radicals-ebook/dp/B003V4B574/ref=kinw_dp_ke?ie=UTF8&m;=AG56TWVU5XWC2). The book is designed for community reading, but it works well as a devotion. It leads me into focused prayer and provides Scripture for reflection.

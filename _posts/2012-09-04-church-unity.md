@@ -1,9 +1,6 @@
 ---
 date: 2012-09-04
 title: Church Unity
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
 
 Most churches strive for church unity. This is not a bad goal. In fact, the early church was admonished to be of one mind. Paul seemed to continually press the churches in the first century toward unity.  Paul wrote to the church at Ephesus:

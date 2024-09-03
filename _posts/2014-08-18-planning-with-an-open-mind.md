@@ -1,9 +1,6 @@
 ---
 title: Planning with an Open Mind
 date: 2014-08-18
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
  
 We meet this evening as a church leadership team to develop a listening strategy for our discernment process in church staffing. The process began in May and has been interrupted due to hiring an interim worship pastor. Just as we were planning to listen, God spoke. 

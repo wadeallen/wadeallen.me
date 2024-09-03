@@ -1,9 +1,6 @@
 ---
 date: 2011-06-06 18:06:16
 title: Drafting a Process
-description: Gamification extends beyond traditional mobile games, discovering innovative strategies to incorporate game-like elements into non-gaming apps for enhanced
-image: '/images/04.jpg'
-tags: [reading, news]
 ---
 
 Developing a process of discerning for church leaders is a daunting task. Frank Rogers, in *Practicing Our Faith: A Way of Life for a Searching People* (edited by Dorothy Bass) describes the difficulty.
