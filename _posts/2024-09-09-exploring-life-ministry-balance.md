@@ -2,6 +2,7 @@
 title: "Exploring Life-Ministry Balance"
 date: 2024-09-09
 image: true
+tags: [blog, ministry, life-balance]
 ---
 
 After a few years of settling into my role as pastor of The United Church in Canandaigua, New York, I am excited to relaunch this blog. It has been a period of adjustment and growth, and now I am eager to reconnect with you all through these reflections and discussions.
