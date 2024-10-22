@@ -14,20 +14,6 @@ description: This blog helps pastors and church leaders foster spiritual discern
     {% endif %}
   </div>
 
-  <div class="explore-tags">
-    <h2>Explore:</h2>
-    <div class="tag-cloud">
-      {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
-      {% assign tag_words = site_tags | split:',' | sort %}
-      {% for item in (0..site.tags.size) %}{% unless forloop.last %}
-      {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
-      <a href="{{ site.baseurl }}/tags/?tag={{ this_word | cgi_escape }}">{{ this_word }} <span>({{ site.tags[this_word].size }})</span></a>
-      {% endunless %}
-      {% endfor %}
-    </div>
-  </div>
-</div>
-
 <section class="section">
   <div class="container">
     <div class="row grid">
