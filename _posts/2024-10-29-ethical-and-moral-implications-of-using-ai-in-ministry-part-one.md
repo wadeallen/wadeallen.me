@@ -2,7 +2,7 @@
 title: "Ethical and Moral Implications of Using AI in Ministry: Part One"
 date: 2024-10-29
 image: true
-tags: [AI, moral, ethical, technology]
+tags: [ai, moral, ethical, technology]
 ---
 
 AI, or Artificial Intelligence, is all the rage these days. Investors are pouring resources into research and development across various areas of AI. Smartphones and computers are integrating AI into the very fabric of our workflows. So how do we assess the value and implications of using AI in ministry? This is a complex topic with varying degrees of nuance and implications. Certainly, it would be impossible to adequately cover this topic in one blog post. Therefore, I plan to explore this topic in a series of posts.
