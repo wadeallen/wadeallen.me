@@ -1,7 +1,7 @@
 ---
 title: 'Leading with Timeless Truths: Reflections on Same as Ever'
 date: 2025-01-06
-image: /images/2025-01-06.jpeg
+image: true
 tags: [leadership, discernment]
 ---
 
