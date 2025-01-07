@@ -1,6 +1,6 @@
 ---
 date: 2011-09-27 19:06:28
-title: In a Hurry
+title: In a Hurry One
 ---
 
 One of the key truths that I am learning about discernment is that it never ends. It seems that one set of questions leads to the next. Once we have some level of clarity it becomes fuzzy again. We step into coherence only to find more uncertainty. For me, this is not easy. I like to plan, to map it all out; a clear process is attractive to me. Yet, God relishes our dependence on Him. The psalmist writes,

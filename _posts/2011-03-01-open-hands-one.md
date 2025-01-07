@@ -1,6 +1,6 @@
 ---
 date: 2011-03-01 20:11:02
-title: Open Hands
+title: Open Hands One
 ---
 
 The Spirit has been prompting us to explore our wedding policy. We have a [beautiful building](http://fbcmuncie.org/weddings/); many people want to get married at First Baptist. Recent inquiries have caused us to reconsider our policies. If you read them, you would find little variation from a country club contract. Preferential treatment was given to members while non-members were regarded as second-class. Non-members were forbidden from using parts of the building and were required to pay higher fees. There was even a statement requiring "unchurched" non-members to attend church at First Baptist for a period of time. The contract did not reflect our current mindset. It came from an era of institution and privilege. It was time for our policy to be revisited. 
