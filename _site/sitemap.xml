@@ -2,19 +2,19 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/about/</loc>
-<lastmod>2025-01-06T21:17:57-05:00</lastmod>
+<lastmod>2025-01-28T15:52:26-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/contact/</loc>
-<lastmod>2025-01-06T21:17:57-05:00</lastmod>
+<lastmod>2025-01-28T15:52:26-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/elements/</loc>
-<lastmod>2025-01-06T21:17:57-05:00</lastmod>
+<lastmod>2025-01-28T15:52:26-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/tags/</loc>
-<lastmod>2025-01-06T21:17:57-05:00</lastmod>
+<lastmod>2025-01-28T15:52:26-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/posts/surprised</loc>
@@ -593,6 +593,14 @@
 <lastmod>2025-01-06T00:00:00-05:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/posts/the-pastors-sick-day</loc>
+<lastmod>2025-01-14T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/posts/following-pauls-pattern-of-ministry</loc>
+<lastmod>2025-01-28T00:00:00-05:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/posts/</loc>
 </url>
 <url>
@@ -669,5 +677,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/posts/page/24/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/posts/page/25/</loc>
 </url>
 </urlset>
