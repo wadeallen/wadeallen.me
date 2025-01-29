@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-description: Wade Allen has over 30 years of experience in ministry, blending his early Christian upbringing with a strong commitment to spiritual leadership. From his beginnings in youth ministry to his current role as pastor of the United Church in Canandaigua, New York, Wade has focused on guiding congregations with scriptural authority. His educational background and involvement in denominational leadership highlight his dedication to the faith community.
+description: "Wade Allen has over 30 years of experience in ministry, blending his early Christian upbringing with a strong commitment to spiritual leadership. From his beginnings in youth ministry to his current role as pastor of the United Church in Canandaigua, New York, Wade has focused on guiding congregations through biblical teaching and spiritual discernment. His educational background and involvement in denominational leadership highlight his dedication to building bridges across the broader Christian community."
 permalink: /about/
 image: '/images/IMG_7013.png'
 ---
