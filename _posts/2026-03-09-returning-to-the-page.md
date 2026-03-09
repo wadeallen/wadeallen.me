@@ -1,6 +1,6 @@
 ---
 title: "Returning to the Page"
-date: 2025-03-09
+date: 2026-03-09
 image: true
 tags: [ministry, writing]
 ---
