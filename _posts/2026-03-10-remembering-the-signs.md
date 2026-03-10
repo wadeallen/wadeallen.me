@@ -13,7 +13,7 @@ Almost immediately, things begin to slip. Jill is taken in by the breathtaking v
 
 Lewis is pointing us to a simple truth in this story. The forgetting is not dramatic or immediate. It is gradual. It is a result of distraction. They don't reject the signs. They just stop attending to them.
 
-This dynamic is often true for us, for churches, for ministries. How often do we allow the busyness of life, the comfort of routine, the pull of culture, the noise of politics, or the weight of circumstances to crowd out our regular, attentive time in God's Word? It is not that we reject Scripture. We simply stop attending to it. The writer of Hebrews warns against exactly this kind of drift:
+This dynamic is often true for us, for churches, for ministries. How often do we allow the busyness of life, the comfort of routine, the pull of culture, the noise of politics, or the weight of circumstances to crowd out our regular, attentive time in God's Word? It is not that we reject Scripture. We simply stop attending to it. The writer of Hebrews warns us:
 
 > (Hebrews 2:1 NIV) We must pay the most careful attention, therefore, to what we have heard, so that we do not drift away.
 
