@@ -12,7 +12,7 @@
         {% endif %}
 		{% if page.previous.image == true %}
 		{% assign imgday = page.previous.date | date: "%F"  %}
-        <img class="lazy" data-src="{{site.baseurl}}/images/{{imgday}}.jpeg" alt="{{ page.title }}">
+        <img class="lazy" data-src="{{site.baseurl}}/images/{{imgday}}.jpg" alt="{{ page.title }}">
 		{% endif %}
       </a>
       <div class="prev__box">
@@ -38,7 +38,7 @@
         {% endif %}
 		{% if page.next.image == true %}
 		{% assign imgday = page.next.date | date: "%F"  %}
-        <img class="lazy" data-src="{{site.baseurl}}/images/{{imgday}}.jpeg" alt="{{ page.title }}">
+        <img class="lazy" data-src="{{site.baseurl}}/images/{{imgday}}.jpg" alt="{{ page.title }}">
 		{% endif %}
       </a>
     </div>
