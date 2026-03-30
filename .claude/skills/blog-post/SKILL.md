@@ -68,9 +68,11 @@ tags: [tag1, tag2]
    /sessions/compassionate-friendly-maxwell/mnt/wadeallen.me/_posts/YYYY-MM-DD-slug.md
    ```
 
-4. **Confirm** — tell Wade the post filename and remind him to complete these two steps manually:
-   - Copy his image from `/Users/wadeallen/Documents/Action/` into `wadeallen.me/images/` and rename it `YYYY-MM-DD.jpg` to match the post date
-   - Push the repo to GitHub to publish
+4. **Confirm** — tell Wade the post filename, then walk through these steps one at a time:
+   - Ask if he has run `move-image.sh` to move the image into the blog
+   - Ask if he has pushed the repo to GitHub
+   - Once he confirms both, ask if he would like to archive the draft in Drafts
+   - If yes, use `drafts_archive` with the draft's UUID to archive it
 
 ---
 
