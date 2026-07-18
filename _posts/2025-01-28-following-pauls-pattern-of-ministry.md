@@ -11,7 +11,7 @@ In Acts 17, Paul and his companions arrive in Thessalonica, where, as noted in v
 
 > (Acts 17:1–2 NIV) When Paul and his companions had passed through Amphipolis and Apollonia, they came to Thessalonica, where there was a Jewish synagogue. As was his custom, Paul went into the synagogue, and on three Sabbath days he reasoned with them from the Scriptures.
 
-The phrase *as was his custom* highlights that Paul frequently engaged in this type of ministry, utilizing the synagogue as a venue to share about Jesus with those seeking God—a practice reminiscent of Jesus, who also frequented the synagogue:
+The phrase *as was his custom* highlights that Paul frequently engaged in this type of ministry, utilizing the synagogue as a venue to share about Jesus with those seeking God, a practice reminiscent of Jesus, who also frequented the synagogue:
 
 > (Luke 4:16 NIV) He went to Nazareth, where he had been brought up, and on the Sabbath day he went into the synagogue, as was his custom...
 

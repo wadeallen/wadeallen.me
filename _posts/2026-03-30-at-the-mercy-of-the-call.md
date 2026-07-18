@@ -10,7 +10,7 @@ In chapter 8, the children are discussing with Trumpkin (the "D.L.F." or Dear Li
 
 > "Golly! It's a bit uncomfortable to know that we can be whistled for like that. It's worse than what Father says about living at the mercy of the telephone.
 
-When Lewis penned these words, the telephone was a relatively new invention — an unwelcome intrusion into daily routine. In the same way, the children were stripped from their lives in England without warning or choice.
+When Lewis penned these words, the telephone was a relatively new invention, an unwelcome intrusion into daily routine. In the same way, the children were stripped from their lives in England without warning or choice.
 
 How often do we feel this way? Maybe it is a job transition, an ended relationship, a diagnosis, or a demanding coworker or neighbor. We feel as if we have little agency in our life. Finding ourselves at the mercy of others, or of circumstances, can be disturbing to those of us who value control.
 
