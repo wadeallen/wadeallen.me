@@ -1,6 +1,7 @@
 ---
 title: God's Story 
 date: 2015-05-12
+image: true
 ---
  
 For the past couple of weeks, we have been following the lectionary passages through the first epistle of John. I have to admit, I have spent very little in this letter. However, I am discovering the full-bodied compositions of the elder John. This week, we are exploring chapter 5. 
