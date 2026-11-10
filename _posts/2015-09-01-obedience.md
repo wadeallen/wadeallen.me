@@ -1,6 +1,7 @@
 ---
 title: Obedience
 date: 2015-09-01
+image: true
 ---
  
 We are well into our sermon series on the life of Solomon. On one level, the study has been very difficult. With such long descriptions about building campaigns, it has been hard to find application for everyday life. On the other hand, diving into the complex and duplicitous life of Solomon has revealed the danger of compromise. We are coming to a greater understanding of the necessity of following God wholeheartedly in *every* area of life. 
