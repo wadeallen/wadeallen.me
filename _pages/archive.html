@@ -1,0 +1,82 @@
+---
+layout: default
+title: Archive
+description: Every post on the blog, organized by year.
+permalink: /archive/
+---
+
+<div class="container">
+  <div class="page-section-head">
+    <h1 class="page-title">{{ page.title }}</h1>
+    <p class="page-description">{{ page.description }}</p>
+  </div>
+</div>
+
+{% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+
+<!-- begin archive -->
+<section class="section tags archive">
+  <div class="container">
+
+    <div class="archive__filter" role="group" aria-label="Filter posts by year">
+      <button type="button" class="archive__year-button is-active" data-year="all">
+        All <span class="archive__count">{{ site.posts.size }}</span>
+      </button>
+      {% for year in posts_by_year %}
+      <button type="button" class="archive__year-button" data-year="{{ year.name }}">
+        {{ year.name }} <span class="archive__count">{{ year.items.size }}</span>
+      </button>
+      {% endfor %}
+    </div>
+
+    {% for year in posts_by_year %}
+    <div class="archive__group" data-year="{{ year.name }}">
+      <div class="tag__info archive__group-head">
+        <h2 class="tag__title">{{ year.name }} <span class="tag__counter">{{ year.items.size }}</span></h2>
+      </div>
+      <div class="row grid">
+        {% for post in year.items %}
+          {% include article.html %}
+        {% endfor %}
+      </div>
+    </div>
+    {% endfor %}
+
+  </div>
+</section>
+<!-- end archive -->
+
+{% include section-subscribe.html %}
+
+<script>
+  (function () {
+    var buttons = document.querySelectorAll(".archive__year-button");
+    var groups = document.querySelectorAll(".archive__group");
+
+    function showYear(year) {
+      var found = false;
+      buttons.forEach(function (button) {
+        var match = button.getAttribute("data-year") === year;
+        button.classList.toggle("is-active", match);
+        if (match) { found = true; }
+      });
+      if (!found) { year = "all"; buttons[0].classList.add("is-active"); }
+      groups.forEach(function (group) {
+        var show = year === "all" || group.getAttribute("data-year") === year;
+        group.classList.toggle("is-hidden", !show);
+      });
+    }
+
+    buttons.forEach(function (button) {
+      button.addEventListener("click", function () {
+        var year = button.getAttribute("data-year");
+        showYear(year);
+        var url = year === "all" ? window.location.pathname : window.location.pathname + "?year=" + year;
+        window.history.replaceState(null, "", url);
+      });
+    });
+
+    var params = new URLSearchParams(window.location.search);
+    showYear(params.get("year") || "all");
+  })();
+</script>

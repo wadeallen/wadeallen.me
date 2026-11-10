@@ -1,0 +1,51 @@
+/* Archive Page: reuses the Tags page title and the Explore Tags pill styles */
+.archive {
+
+  .archive__filter {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-bottom: 24px;
+  }
+
+  .archive__year-button {
+    padding: 6px 16px;
+    margin: 4px 8px 4px 0;
+    font-family: $base-font-family;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 1.6;
+    border: none;
+    border-radius: 60px;
+    cursor: pointer;
+    color: var(--heading-font-color);
+    background-color: var(--background-alt-color);
+    transition: $global-transition;
+
+    &:hover,
+    &.is-active {
+      background-color: var(--background-alt-color-2);
+    }
+
+    &.is-active {
+      font-weight: 700;
+    }
+  }
+
+  .archive__count {
+    margin-left: 4px;
+    opacity: .6;
+  }
+
+  .archive__group {
+    margin-bottom: 24px;
+
+    &.is-hidden {
+      display: none;
+    }
+  }
+
+  .archive__group-head {
+    margin: 24px 0 40px;
+  }
+}
