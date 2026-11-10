@@ -2,7 +2,7 @@
 title: "At the Mercy of the Call"
 date: 2026-03-30
 image: true
-tags: [discernment, scripture]
+tags: [discernment, scripture, book]
 ---
 As I mentioned in a previous post, I am rereading the *Chronicles of Narnia* series in chronological order. On a recent trip, I returned to *Prince Caspian*. C.S. Lewis is a master at embedding bits of theology into his stories. Sometimes these one liners blow right past you. Other times, they hit you like a ton of bricks.
 

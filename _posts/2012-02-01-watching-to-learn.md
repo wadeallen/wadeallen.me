@@ -1,6 +1,7 @@
 ---
 date: 2012-02-01 16:03:37
 title: Watching to Learn
+tags: [book]
 ---
 
 In the morning, I generally read [Common Prayer: A Liturgy for Ordinary Radicals](http://www.amazon.com/Common-Prayer-Ordinary-Radicals-ebook/dp/B003V4B574/ref=kinw_dp_ke?ie=UTF8&m;=AG56TWVU5XWC2). The book is designed for community reading, but it works well as a devotion. It leads me into focused prayer and provides Scripture for reflection.

@@ -2,7 +2,7 @@
 title: 'Leading with Timeless Truths: Reflections on Same as Ever'
 date: 2025-01-06
 image: true
-tags: [leadership, discernment]
+tags: [leadership, discernment, book]
 ---
 
 As the new year begins, I take a moment to reflect on the books I've read last year and identify those I'd like to explore this year. One notable recommendation for 2024 is Morgan Housel's book *Same as Ever: A Guide to What Never Changes*, which I highly suggest for church leaders. The key theme of the book emphasizes that timeless truths can guide us through cultural shifts. In a rapidly changing world, it's valuable to remember the constant aspects of human behavior, such as fear, greed, and adaptability. While our culture evolves, it is refreshing to contemplate what remains unchanged.

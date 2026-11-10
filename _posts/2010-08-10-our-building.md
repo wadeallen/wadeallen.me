@@ -1,6 +1,7 @@
 ---
 date: 2010-08-10
 title: Our Building
+tags: [book]
 ---
 
 I recently completed a paper for a summer course.  Here are a few thoughts concerning our building.

@@ -1,6 +1,7 @@
 ---
 date: 2013-05-15
 title: Test Drive
+tags: [book]
 ---
 
 As we navigate through two discernment processes at our church, I am a bit overwhelmed with the potential change. While the prospective shifts seem promising and life-giving to our congregation, there are some among us who are resistant to any level of change. Imagine that. 

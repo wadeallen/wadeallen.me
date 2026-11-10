@@ -1,6 +1,7 @@
 ---
 date: 2011-03-15 20:44:47
 title: Individualism
+tags: [book]
 ---
 
 I have been reading Charles Cosgrove's chapter in *Cross-Cultural Paul: Journeys To Others, Journeys To Ourselves* on American Individualism. This is a fascinating chapter full of profound observations about how our culture impacts the way in which we view Christianity, church, and living in community. Cosgrove outlines our (American) values and how they stack up against Paul's understanding of Christ. Americans value self-reliance and independence.

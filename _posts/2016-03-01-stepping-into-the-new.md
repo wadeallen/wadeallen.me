@@ -1,7 +1,7 @@
 ---
 title: Stepping Into the New
 date: 2016-03-01
-tags: [discerning, change, ministry, transition]
+tags: [discerning, change, ministry, transition, book]
 image: true
 ---
 

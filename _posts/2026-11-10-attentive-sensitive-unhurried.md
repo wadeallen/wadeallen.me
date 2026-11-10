@@ -2,7 +2,7 @@
 title: "Attentive, Sensitive, Unhurried"
 date: 2026-11-10
 image: true
-tags: [leadership, ministry, scripture]
+tags: [leadership, ministry, scripture, book]
 ---
 
 I've recently finished reading a book by David Brooks entitled *How to Know a Person*. I really like his style and found his work extremely helpful. As a pastor, I know that learning to see people for who they are is central to my role.

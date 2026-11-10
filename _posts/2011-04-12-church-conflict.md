@@ -1,6 +1,7 @@
 ---
 date: 2011-04-12 19:07:09
 title: Making Peace
+tags: [book]
 ---
 
 I recently read Jim Van Yperen's book, *Making Peace: A Guide to Overcoming Church Conflict*. This is a premier work for church leaders. A notable feature is Van Yperen's view of conflict. He sees it as an opportunity for God to work. Resolving conflict is not about making people happy. It is an opportunity for the church to regain its authentic role.

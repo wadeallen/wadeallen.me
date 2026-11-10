@@ -1,6 +1,7 @@
 ---
 date: 2013-04-16
 title: Small Enough
+tags: [book]
 ---
 
 Nichole Nordeman wrote a song entitled *Small Enough*. In the song, she is seeking an accessible encounter with God. She asks, 

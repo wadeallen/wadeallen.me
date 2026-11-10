@@ -1,6 +1,7 @@
 ---
 date: 2010-08-24 19:31:25
 title: Walking the Tightrope
+tags: [book]
 ---
 
 Several weeks ago, I read Alan Roxburgh's *Missional Map-Making: Skills for Leading in Times of Transition.*  As I continue to reflect on this work, particular aspects seem worthy of note.

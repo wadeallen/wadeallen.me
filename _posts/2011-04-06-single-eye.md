@@ -1,6 +1,7 @@
 ---
 date: 2011-04-06 19:41:32
 title: Single Eye
+tags: [book]
 ---
 
 I am spending a large chunk of today in Stephen Fowl's *Engaging Scripture: a Model for Theological Interpretation*. He is proposing a new method of interpreting scripture. He suggests that scripture can only be interpreted through the life, practices, and worship of God's people. While his arguments are fairly complex, he nails an important point in the third chapter. Fowl describes the "single eye" as a necessary trait of a Christian community.  What does he mean?

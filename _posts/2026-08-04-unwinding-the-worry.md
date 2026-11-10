@@ -2,7 +2,7 @@
 title: "Unwinding the Worry"
 date: 2026-08-04
 image: true
-tags: [anxiety, mental-health, scripture, discernment]
+tags: [anxiety, mental-health, scripture, discernment, book]
 ---
 
 It's always intriguing to me when different parts of my life intersect with one another. I just finished a book entitled "Unwinding Anxiety" by Judson Brewer. At the same time I am preaching this week from Philippians 4, specifically verses 6 and 7. It's Paul's solution for anxiety.

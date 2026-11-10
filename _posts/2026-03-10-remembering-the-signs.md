@@ -2,7 +2,7 @@
 title: "Remembering the Signs"
 date: 2026-03-10
 image: true
-tags: [discernment, scripture]
+tags: [discernment, scripture, book]
 ---
 
 C.S. Lewis is one of my favorite authors. It had been a while since I had spent time in his writings. So last year I decided to revisit *The Chronicles of Narnia*. This time I thought I would read the series in chronological order. It has been a wonderful experience, and I am currently working my way through *The Silver Chair*.

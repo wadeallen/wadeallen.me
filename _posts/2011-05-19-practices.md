@@ -1,6 +1,7 @@
 ---
 date: 2011-05-19 14:51:05
 title: Practices
+tags: [book]
 ---
 
 We are moving along with our work on developing a process of discernment.  However, the deeper I get in this process, the more complicated it seems. I am sure that we cannot pin this topic down to a commodified process. In the same way, agreeing on a system of practices seems helpful.
