@@ -1,6 +1,7 @@
 ---
 title: A No Packing List
 date: 2015-10-20
+image: true
 ---
  
 I am a planner. I like to stay well ahead of deadlines; I work best when I have a little breathing room. This tendency to be out in front is often the source of banter among my family and colleagues. This is just who I am and how I function.

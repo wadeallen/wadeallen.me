@@ -1,6 +1,7 @@
 ---
 title: Fake Discernment
 date: 2015-09-29
+image: true
 ---
  
 A few weeks ago in my morning devotions, I was reading a passage from the lectionary. This text is particularly applicable to discerning churches. I would like to share it with you.
