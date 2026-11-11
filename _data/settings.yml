@@ -29,15 +29,15 @@ cta_button:
 # Author Settings
 author:
   author_name: "Wade Allen"
-  author_avatar: "/images/Wade_Allen.jpg"
+  author_avatar: "/images/wade-allen.jpg"
 
 
 #-------------------------------
 # Hero Settings
 hero:
-  enable: false
-  hero_title: I'm an expert user experience strategist and mobile developer.
-  hero_description: Leveraging my expertise, I'm here to collaborate with you on crafting design solutions that transcend expectations. Let's embark on a journey of innovation together!
+  enable: true
+  hero_title: Navigating Ministry, Leadership, and Life
+  hero_description: Reflections for pastors and church leaders on discernment, healthy rhythms, and leading with a strong connection to God.
 
 # Hero Logos
 hero_logos:
@@ -140,8 +140,8 @@ faq:
 # Blog Section Settings
 blog:
   enable: true
-  blog_intro: What’s new?
-  blog_title: Latest from blog
+  blog_intro:
+  blog_title:
 
 
 #-------------------------------

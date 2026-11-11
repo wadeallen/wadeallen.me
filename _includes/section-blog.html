@@ -3,6 +3,7 @@
 <section class="section blog animate">
   <div class="container">
 
+    {% if site.data.settings.blog.blog_intro or site.data.settings.blog.blog_title %}
     <div class="section__info section__info__center">
       <div class="section__head">
         {% if site.data.settings.blog.blog_intro %}
@@ -13,6 +14,7 @@
         {% endif %}
       </div>
     </div>
+    {% endif %}
 
     <div class="row">
     {% if site.posts.size > 0 %}
