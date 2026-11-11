@@ -1,6 +1,7 @@
 ---
 date: 2011-08-01 14:22:56
 title: Testing the Process
+image: true
 ---
 
 Today is the first day of August. So far, I am on track in terms of my thesis schedule. I thought I would give you all an update.

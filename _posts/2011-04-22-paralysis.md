@@ -1,6 +1,7 @@
 ---
 date: 2011-04-22 13:05:10
 title: Paralysis
+image: true
 ---
 
 My doctoral thesis is underway. The Ministry Support Group is formed and is working on various tasks. My reading list is narrowing while the first chapter is swelling. I have not talked specifically about this project on this blog; my hope is to begin writing about my progress on this blog.

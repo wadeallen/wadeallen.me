@@ -1,6 +1,7 @@
 ---
 date: 2011-06-06 18:06:16
 title: Drafting a Process
+image: true
 tags: [book]
 ---
 

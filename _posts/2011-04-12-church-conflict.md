@@ -1,6 +1,7 @@
 ---
 date: 2011-04-12 19:07:09
 title: Making Peace
+image: true
 tags: [book]
 ---
 

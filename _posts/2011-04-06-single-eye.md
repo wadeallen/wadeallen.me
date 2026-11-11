@@ -1,6 +1,7 @@
 ---
 date: 2011-04-06 19:41:32
 title: Single Eye
+image: true
 tags: [book]
 ---
 

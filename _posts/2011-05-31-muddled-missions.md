@@ -1,6 +1,7 @@
 ---
 date: 2011-05-31 17:03:31
 title: Muddled Missions
+image: true
 ---
 
 This week, I am preaching on Luke 24. Jesus finds the disciples in a state of confusion after he rises from the dead. No doubt, they are afraid, yet joyous; they believe, yet they doubt.  John Stott puts it this way.

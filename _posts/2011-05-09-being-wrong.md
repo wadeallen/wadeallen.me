@@ -1,6 +1,7 @@
 ---
 date: 2011-05-09 18:16:57
 title: Being Wrong
+image: true
 ---
 
 I watched a very interesting TED talk today. "Wrongologist" Kathryn Schulz describes the necessity of admitting our fallibility. While some dismiss her talk as an argument for tolerance, I find her points extremely applicable to the church. Don't get me wrong, I am not proposing that compromise Jesus exclusive claim as "the way, the truth, and the life" (John 14:6) But, I think we do need to consider our own ability to err.

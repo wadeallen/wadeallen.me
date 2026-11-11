@@ -1,6 +1,7 @@
 ---
 date: 2011-03-08 17:50:11
 title: Carried by the Spirit
+image: true
 ---
 
 The more I preach, the more I realize how the context of our life impacts our reading of scripture. We certainly don't want our life situations to rule the text. Yet it seems the Spirit uses the books we read, the people we encounter, the challenges of daily life to inform our reading of scripture. Each time I come to a text, it looks different; I see new things. 

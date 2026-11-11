@@ -1,6 +1,7 @@
 ---
 date: 2011-05-04 18:34:49
 title: 'Church Conflict: The Hidden Systems Behind the Fights'
+image: true
 tags: [book]
 ---
 

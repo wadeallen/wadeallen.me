@@ -1,6 +1,7 @@
 ---
 date: 2011-02-14 16:40:00
 title: Learning from The Daily
+image: true
 tags: [book]
 ---
 

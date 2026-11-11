@@ -1,6 +1,7 @@
 ---
 date: 2011-03-15 20:44:47
 title: Individualism
+image: true
 tags: [book]
 ---
 

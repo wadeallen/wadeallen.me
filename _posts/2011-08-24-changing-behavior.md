@@ -1,6 +1,7 @@
 ---
 date: 2011-08-24 19:11:14
 title: Changing Behavior
+image: true
 ---
 
 This morning, I was listening to a podcast about leading churches. The interviewee was talking about the need to develop appropriate systems for hiring staff; he was speaking from mega-church experience. One of the phrases that he used was "systems create behavior." That phrase stuck with me. As we are developing a process of discernment, we are walking through a process that is changing behavior. Ultimately God is changing behavior, but I think the system has something to do with it. 

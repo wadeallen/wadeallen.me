@@ -1,6 +1,7 @@
 ---
 date: 2011-05-19 14:51:05
 title: Practices
+image: true
 tags: [book]
 ---
 
