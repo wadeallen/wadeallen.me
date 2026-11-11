@@ -1,6 +1,7 @@
 ---
 date: 2010-09-20 19:42:48
 title: Mixed Messages
+image: true
 ---
 
 As I spend considerable time in the book of Acts each week, I am confounded by the movement of the Holy Spirit. Just when I think I understand His movement, I encounter a surprise. In Acts 21, Paul journeys to Jerusalem.  He has been warned of trouble in the city. He is apparently following the Spirit into dangerous places. Last week, I wrote of his courage to go where the Spirit leads.

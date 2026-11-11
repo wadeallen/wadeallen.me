@@ -1,6 +1,7 @@
 ---
 date: 2010-09-01 18:24:05
 title: A Speaking God
+image: true
 tags: [book]
 ---
 

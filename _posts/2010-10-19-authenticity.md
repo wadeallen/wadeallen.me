@@ -1,6 +1,7 @@
 ---
 date: 2010-10-19 18:19:07
 title: 'Authenticity '
+image: true
 ---
 
 A week ago, we concluded our sermon series on the book of Acts. I asked two people in our church to share about what the series had meant to them. One was an older gentleman who has been a Christian for years. The other was a young woman who has only been a Christian for a couple of years. 

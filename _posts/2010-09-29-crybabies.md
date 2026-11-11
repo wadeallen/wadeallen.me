@@ -1,6 +1,7 @@
 ---
 date: 2010-09-29 19:50:33
 title: Crybabies
+image: true
 ---
 
 The recent episode of *This American Life* is entitled *Crybabies*.  If you are familiar with this show, you know the hour long broadcast (usually 3-4 chapters) centers on one topic.  This week's show highlights the complainers among us.  The show producers insist that people who "make lots of noise" ultimately "win" (gaining the attention and action) in our world.

@@ -1,6 +1,7 @@
 ---
 date: 2010-08-05 21:16:59
 title: Listening
+image: true
 ---
 
 Yesterday, our worship arts director emailed me; He asked for direction in choosing someone to share a testimony in an upcoming service.  I left the email in my inbox, planning to deal with it later.

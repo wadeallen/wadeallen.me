@@ -1,6 +1,7 @@
 ---
 date: 2010-08-24 19:31:25
 title: Walking the Tightrope
+image: true
 tags: [book]
 ---
 

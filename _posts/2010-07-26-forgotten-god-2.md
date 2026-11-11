@@ -1,6 +1,7 @@
 ---
 date: 2010-07-26
 title: Forgotten God
+image: true
 tags: [book]
 ---
 

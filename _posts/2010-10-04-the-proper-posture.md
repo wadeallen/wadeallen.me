@@ -1,6 +1,7 @@
 ---
 date: 2010-10-04 22:59:24
 title: The Proper Posture
+image: true
 tags: [book]
 ---
 

@@ -1,6 +1,7 @@
 ---
 date: 2010-09-13 18:39:47
 title: Take My Life
+image: true
 ---
 
 As I have been teaching through the book of Acts, the Spirit's movement is unmistakable.  He leads, prompts, warns, and directs the apostles.  This week, in Paul's farewell to the Ephesian elders, I am struck by one word.

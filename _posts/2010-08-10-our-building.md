@@ -1,6 +1,7 @@
 ---
 date: 2010-08-10
 title: Our Building
+image: true
 tags: [book]
 ---
 

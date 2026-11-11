@@ -1,6 +1,7 @@
 ---
 date: 2010-08-16
 title: Organic Response
+image: true
 ---
 
 Church picnics are fun.  You usually have the kids running around, homemade desserts, and plenty of time to talk.  The purpose is often to strengthen relationships of those who attend a particular church.  Yesterday, we held our annual church picnic, combining with a sister church in our city. This year the picnic took on a different flavor.

@@ -1,6 +1,7 @@
 ---
 date: 2010-07-05
 title: Surprised
+image: true
 ---
 
 Have you figured God out?  Have you heard enough about Him, studied Him enough, been around His people long enough to determine how he stands on every issue?  Is He predictable, unsurprising?
