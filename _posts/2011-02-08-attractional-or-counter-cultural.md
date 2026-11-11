@@ -1,5 +1,5 @@
 ---
-date: 2011-02-07 22:01:45
+date: 2011-02-08 22:01:45
 title: Attractional or Counter-Cultural
 image: true
 ---
