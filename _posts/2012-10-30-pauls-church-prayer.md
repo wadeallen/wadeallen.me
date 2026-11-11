@@ -1,6 +1,7 @@
 ---
 date: 2012-10-30
 title: A Prayer for the Church
+image: true
 ---
 
 This blog is dedicated to issues of discernment within the church and among church leaders. While I have not mustered the discipline to write a weekly entry, I often discover discernment related text in Scripture. This week, I was preparing for an Advent sermon and landed on a passage from Paul's letter to the Philippians. I found it particularly relevant to the issue of discernment. 

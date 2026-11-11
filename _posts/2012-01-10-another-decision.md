@@ -1,6 +1,7 @@
 ---
 date: 2012-01-10 19:32:37
 title: Another Decision
+image: true
 ---
 
 It has been a while since I have blogged on this site. I have been a bit overwhelmed finishing my doctoral thesis. However, I hope to contribute to this site throughout 2012. My thesis has been submitted to the second reader and I have a bit of time to sit back and evaluate what I have learned.

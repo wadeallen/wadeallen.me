@@ -1,6 +1,7 @@
 ---
 date: 2012-02-08 22:16:41
 title: Fortitude and Flexibility
+image: true
 tags: [book]
 ---
 

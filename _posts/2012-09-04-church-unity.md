@@ -1,6 +1,7 @@
 ---
 date: 2012-09-04
 title: Church Unity
+image: true
 ---
 
 Most churches strive for church unity. This is not a bad goal. In fact, the early church was admonished to be of one mind. Paul seemed to continually press the churches in the first century toward unity.  Paul wrote to the church at Ephesus:

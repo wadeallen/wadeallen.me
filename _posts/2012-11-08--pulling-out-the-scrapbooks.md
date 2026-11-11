@@ -1,6 +1,7 @@
 ---
 date: 2012-11-08
 title: Pulling out the Scrapbooks
+image: true
 tags: [book]
 ---
 

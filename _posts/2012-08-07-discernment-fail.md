@@ -1,6 +1,7 @@
 ---
 date: 2012-08-07
 title: Discernment Fail
+image: true
 ---
 
 I spend time each morning reading Scripture; I usually follow the given passages in my devotional. This week, I was directed to 1 Samuel 14. It has been a while since I read this text. The chapter opens with Jonathan sneaking off to wage an attack on the Philistines. He returns successful in this endeavor, but the work is not complete. The army must face another battle. Saul is determined and binds his army with an oath.

@@ -1,6 +1,7 @@
 ---
 date: 2012-02-01 16:03:37
 title: Watching to Learn
+image: true
 tags: [book]
 ---
 

@@ -1,6 +1,7 @@
 ---
 date: 2012-03-13 17:03:18
 title: Implementing with Open Ears
+image: true
 ---
 
 I wanted to update you on the status of our recent decision to change our Sunday morning schedule. We are planning on making the change the week after Easter. It has been a long road of listening, discerning and listening a bit more. Yet it seems that it is time to pull the trigger on the change. With most of the congregation supportive, a leadership team ready to make any unforeseen adjustments and a natural shift in seasons (Spring), it seems that the timing is right.
