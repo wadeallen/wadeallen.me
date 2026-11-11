@@ -49,3 +49,55 @@
     margin: 24px 0 40px;
   }
 }
+
+/* Archive page title, sized to match the homepage headline */
+.page-section-head.archive__head {
+  .page-title {
+    font-size: 44px;
+    line-height: 1.1;
+  }
+
+  @media (max-width: $desktop) {
+    .page-title {
+      font-size: 40px;
+    }
+  }
+
+  @media (max-width: $tablet) {
+    .page-title {
+      font-size: 30px;
+    }
+  }
+
+  @media (max-width: $mobile) {
+    .page-title {
+      font-size: 26px;
+    }
+  }
+}
+
+/* Year headings, one step smaller than the page title */
+.archive {
+  .archive__group-head .tag__title {
+    font-size: 32px;
+    line-height: 1.1;
+  }
+
+  @media (max-width: $desktop) {
+    .archive__group-head .tag__title {
+      font-size: 30px;
+    }
+  }
+
+  @media (max-width: $tablet) {
+    .archive__group-head .tag__title {
+      font-size: 26px;
+    }
+  }
+
+  @media (max-width: $mobile) {
+    .archive__group-head .tag__title {
+      font-size: 22px;
+    }
+  }
+}
