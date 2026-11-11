@@ -1,6 +1,7 @@
 ---
 date: 2013-04-30
 title: Mystery and Clarity
+image: true
 ---
 
 As we navigate cultural and sociological changes, the pathway can be obscure. How do we balance differing opinions, program history and congregational expectations? How do we figure out the right paths in our decision-making? I have to admit , it can be overwhelming. In this week's text (in our Ephesians study at First Baptist), we are reminded of the tension between mystery and clarity.

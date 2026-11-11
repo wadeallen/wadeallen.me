@@ -1,6 +1,7 @@
 ---
 date: 2013-03-14
 title: Unexpected Directions
+image: true
 ---
 
 As I encounter this week's lectionary text, I find myself questioning Jesus' stance. Let me fill you in a bit. Jesus is on his way to the cross. He makes a stopover in the town of Bethany. You might remember this place; Lazarus was raised from the dead there. Jesus is revered in that town; it is  likely that He also healed a man named Simon (who was a leper) in Bethany. So Simon decides to throw a party for Jesus. He invites his friends, family and maybe everyone in town to his dinner celebration. 

@@ -1,6 +1,7 @@
 ---
 date: 2013-04-16
 title: Small Enough
+image: true
 tags: [book]
 ---
 

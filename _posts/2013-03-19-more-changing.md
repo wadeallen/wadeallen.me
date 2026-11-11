@@ -1,6 +1,7 @@
 ---
 date: 2013-03-19
 title: More Changing
+image: true
 ---
 
 I sometimes get tired of change. It seems like everything is moving so fast. I find myself longing for days of stability. My family and I sometimes watch old TV episodes like *Leave It To Beaver* or *The Andy Griffith Show*. While I was not around in the 1950s, it seems  like the world was a more steady place. As a congregation, we have found that God has called us to adjust in fairly significant ways. In the past two years, we have changed our worship schedule and hired staff. I told our church moderator a few months ago that the difficult decisions should be behind us. I hoped that we would be able to relax a bit and enjoy an unfluctuating environment for a bit. It doesn't look like this will be the case.

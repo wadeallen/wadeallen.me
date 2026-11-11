@@ -1,6 +1,7 @@
 ---
 date: 2013-03-06
 title: The Older Son
+image: true
 ---
 
 This week, we are exploring Luke 15 as a congregation. This chapter includes one of the most popular parables in Scripture. Along with the Good Samaritan, this story is one of the most familiar of Jesus' stories. As we think about this story, we are reminded that we serve an extravagant God. Jesus describes  the father as undignified, running to meet his son. The father's compassion drives his lavish forgiveness and reinstatement of the wayward son's position in the family. 

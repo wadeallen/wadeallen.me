@@ -1,6 +1,7 @@
 ---
 date: 2013-05-15
 title: Test Drive
+image: true
 tags: [book]
 ---
 

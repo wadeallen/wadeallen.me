@@ -1,6 +1,7 @@
 ---
 date: 2013-07-08
 title: Entering Into the Story
+image: true
 tags: [book]
 ---
 

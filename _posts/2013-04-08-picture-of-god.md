@@ -1,6 +1,7 @@
 ---
 date: 2013-04-08
 title: Picture of God
+image: true
 ---
 
 As I am preparing for this week's sermon, a particular phrase in the text struck me. Paul is praying for the Ephesian church (and other churches who would receive this letter). He wants them to fully experience  what it means to know Jesus. The phrase that is curious is,
