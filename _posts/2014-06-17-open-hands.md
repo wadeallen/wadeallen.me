@@ -1,6 +1,7 @@
 ---
 title: Open Hands
 date: 2014-06-17
+image: true
 ---
 
 I was asked to submit an article to a community organization that works with our city's poor. They strive to help those living in poverty enter into the middle class. They do not do it through financial assistance. Rather they work to eliminate poverty through relationships and education. The article is not directly related to the issue of discernment but seem appropriate to place on this blog.

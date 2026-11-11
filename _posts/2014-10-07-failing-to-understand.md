@@ -1,6 +1,7 @@
 ---
 title: Failing to Understand
 date: 2014-10-07
+image: true
 ---
  
 We are all familiar with the infamous story of Jesus feeding the large crowd with only five loaves of bread and two fish. 

@@ -1,6 +1,7 @@
 ---
 title: Discernment Update 
 date: 2014-08-21
+image: true
 ---
  
 We spent most of Monday night's meeting developing a listening strategy for our church staff discernment process. I thought I would post a description on this site. This article will also be included in our next monthly newsletter at First Baptist Muncie.

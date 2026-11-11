@@ -1,6 +1,7 @@
 ---
 title: Anointing David Part One
 date: 2014-04-01
+image: true
 ---
  
 My work on this blog is primarily in the area of discernment. I attempt to reflect on the stories and Scriptures that have to do with discerning God's direction. Last week, I was reading the lectionary passages during a devotional time and came across this story. I am excited to walk through it in today's blog post.

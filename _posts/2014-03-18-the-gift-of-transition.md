@@ -1,6 +1,7 @@
 ---
 title: The Gift of Transition
 date: 2014-03-18
+image: true
 tags: [book]
 ---
  

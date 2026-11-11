@@ -1,6 +1,7 @@
 ---
 title: Dark Wisdom
 date: 2014-11-04
+image: true
 ---
  
 I have always thought of wisdom as coming from God. But in my sermon preparation this week, I encountered a new dynamic in my understanding of wisdom. James speaks of wisdom from above (heaven) and wisdom from below. In James 3, he describes the below-wisdom as including *bitter jealously* and *selfish ambition*. He says of this wisdom,

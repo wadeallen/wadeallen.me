@@ -1,6 +1,7 @@
 ---
 title: Church Fights
 date: 2014-11-11
+image: true
 ---
  
 James 4 is perhaps one of the strongest passages in scripture regarding discernment. The beginning verses highlight a church in conflict. While these verses may seem disconnected from the later part of the chapter, they provide the basis for James' instructions to the would-be businessman. 

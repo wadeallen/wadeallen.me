@@ -1,6 +1,7 @@
 ---
 title: Continually Discerning
 date: 2014-05-05
+image: true
 ---
  
 Tomorrow, we begin another season of discerning at First Baptist. I have lost count on how many times we have been through a discernment process in the past few years. No doubt, using this process has been helpful. As we prepare to dive in once again, I would like to make a few observations. 

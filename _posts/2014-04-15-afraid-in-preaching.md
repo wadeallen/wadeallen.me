@@ -1,6 +1,7 @@
 ---
 title: Afraid in Preaching
 date: 2014-04-15
+image: true
 ---
  
 As we enter *Holy Week*, I am reminded of the importance of preaching the Cross. I am also prompted to preach in a posture of humility as I approach the task. Paul wrote to the church at Corinth,
