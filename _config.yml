@@ -2,6 +2,7 @@
 # General Site Settings
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://wadeallen.me" # the base hostname & protocol for your site, e.g. http://example.com
+repository: "wadeallen/wadeallen.me" # used by the github-pages gem during builds
 
 
 #-------------------------------
